@@ -1,181 +1,3205 @@
-UnityFS5.x.x2018.4.11f1Y[[@ÌÌ@ÌCAB-5c944700d27cfde7fcdedefb5e98ad87IEÌI`2018.4.11f1		sÿÿôn0ìÂI?«'Bî#ç7ÿÿÿÿH«ÿÿÿÿ11ÿÿÿÿ@ÞQjÞ * 3 <	 E
- N W `
- i r {    ¢ ¬ ¶HÀÿÿÿÿ11ÿÿÿÿ@ÞQjHÌÿÿÿÿ11ÿÿÿÿ@ÞQjHØÿÿÿÿ11ÿÿÿÿ @Þ!Qj"m_ExecutionOrderHash128m_PropertiesHashbytes[0]bytes[1]bytes[2]bytes[3]bytes[4]bytes[5]bytes[6]bytes[7]bytes[8]bytes[9]bytes[10]bytes[11]bytes[12]bytes[13]bytes[14]bytes[15]m_ClassNamem_Namespacem_AssemblyNameróÂMÖO/J"tYÐ
-|H¼ýBèü^2g7ÿÿÿÿ4vAÞA.	A ]AhêÞ.	H«ÿÿÿÿ11ÿÿÿÿ	@Þ
-QjHÿÿÿÿ11ÿÿÿÿ
-@ÞQjÕÿÿÿÿ11ÿÿÿÿÀÞHjÿÿÿÿ11ÿÿÿÿ@ÞQjÕ-ÿÿÿÿ11ÿÿÿÿ@ÞÞj@LÿÿÿÿÕUÿÿÿÿ11ÿÿÿÿ@Þõj@¡_ ¡c!¡g"¡k#¡o$¡s%¡w&¡{'¡(¡)¡*¡+¡,¡-¡.¡/­ÿÿÿÿ011ÿÿÿÿ1Þ2j 3Þ¹4ÞÄ5ÞÏ6ÞÚ7¡å8¡í9¡õ:¡ý;ÿÿÿÿ<11ÿÿÿÿ=Þ>j ?¡!@¡+A¡5B¡?CÞIDÞVEÞcFÞpGÕ}ÿÿÿÿH11ÿÿÿÿI@ÞJåjK ¡L ¡M ¡N ÕÿÿÿÿO11ÿÿÿÿP@ÞQîjR ¡S ¡T ¡U ¡V ÕÿÿÿÿW11ÿÿÿÿX@ÞYåjZ ¡[ ¡\ ¡] Õÿÿÿÿ^11ÿÿÿÿ_@Þ`Vja¦¨bÕ­ÿÿÿÿc11ÿÿÿÿd@ÞeÜjf ¡g ¡h Õ°ÿÿÿÿi11ÿÿÿÿj@ÞkÜjl ¡m ¡n Õ´ÿÿÿÿo11ÿÿÿÿp@ÞqÜjr ¡s ¡t Õ¸ÿÿÿÿu11ÿÿÿÿv@ÞwÜjx ¡y ¡z ¼Êÿÿÿÿ{11ÿÿÿÿ|Þ}¼jÿÿÿÿ~HÖÿÿÿÿ11ÿÿÿÿ@ÞQjàîÿÿÿÿ11ÿÿÿÿÞàjÿÿÿÿ¡õÕÿÿÿÿ	11ÿÿÿÿ@
-Þ
-åj ¡ ¡ ¡ Õÿÿÿÿ	11ÿÿÿÿ@
-Þ
-åj ¡ ¡ ¡ Õÿÿÿÿ	11ÿÿÿÿ@
-Þ
-åj ¡ ¡ ¡ *;ÿÿÿÿ11ÿÿÿÿÞ*jÿÿÿÿ ÕEÿÿÿÿ¡11ÿÿÿÿ¢@Þ£Þj¤ÕOÿÿÿÿ¥11ÿÿÿÿ¦@Þ§Þj¨]jÿÿÿÿ©11ÿÿÿÿªÞ«]jÿÿÿÿ¬ås­ ¡® ¡¯ ¡° å|± ¡² ¡³ ¡´ ¡µ å¶ ¡· ¡¸ ¡¹ Hÿÿÿÿº11ÿÿÿÿ»@Þ¼Qj½Þ¾Þ¿ÞÀÞ©ÁÕ¶ÿÿÿÿÂ11ÿÿÿÿÃ@ÞÄÞjÅÞÅÆÞÒÇHÞÿÿÿÿÈ11ÿÿÿÿÉ@ÞÊQjË ëÌAÕõÿÿÿÿÍ11ÿÿÿÿÎ@ÞÏ¦jÐÿÿÿÿÑ11ÿÿÿÿÒÞÓjÔ¦*Õ¦4Ö¦=×F\ÿÿÿÿØ11ÿÿÿÿÙÞÚFjÛ¦*Ü¦sÝÕzÿÿÿÿÞ11ÿÿÿÿß@Þà¦jáÕÿÿÿÿâ11ÿÿÿÿã@Þä¦jåÕÿÿÿÿæÀ11ÿÿÿÿç@Þè jéÕ°ÿÿÿÿêÀ11ÿÿÿÿë@Þì jíÕÅÿÿÿÿîÀ11ÿÿÿÿï@Þð jñÕÖÿÿÿÿòÀ11ÿÿÿÿó@Þô jõïÿÿÿÿö11ÿÿÿÿ÷ÞøïjÿÿÿÿùÕÿÿÿÿúÀ11ÿÿÿÿû@Þü jýÕ(ÿÿÿÿþ11ÿÿÿÿÿ@Þõj@¡_¡c¡g¡k¡o¡s¡w¡{	¡
-¡¡¡
-¡¡¡¡Õ7ÿÿÿÿ11ÿÿÿÿ@ÞÞj]Kÿÿÿÿ11ÿÿÿÿÞ]jÿÿÿÿås ¡ ¡ ¡ å| ¡ ¡  ¡! ¡" å# ¡$ ¡% ¡& Hÿÿÿÿ'11ÿÿÿÿ(@Þ)Qj*Þ+Þ, V-AH]ÿÿÿÿ.11ÿÿÿÿ/@Þ0Qj1m_FileIDm_PathIDmeshNameanimatedBoneNamesanimatedBoneHashesUMAMeshDatameshDatabindPosese00e01e02e03e10e11e12e13e20e21e22e23e30e31e32e33UMABoneWeightboneWeightsboneIndex0boneIndex1boneIndex2boneIndex3weight0weight1weight2weight3BoneWeightunityBoneWeightsm_Weight0m_Weight1m_Weight2m_Weight3m_BoneIndex0m_BoneIndex1m_BoneIndex2m_BoneIndex3verticesxyztangentswnormalscolors32rgbauvuv2uv3uv4UMABlendShapeblendShapesshapeNameUMABlendFrameframesframeWeightdeltaVerticesdeltaNormalsdeltaTangentsSubMeshTrianglessubmeshestrianglestrianglesListUMATransformumaBonespositionrotationscalenamehashparentumaBoneCountrootBoneHashboneNameHashessubMeshCountvertexCountRootBoneNameoptimizedoptimizeduvOptimizedBoneWeightoptimizedBoneWeightsboneIndexweight01weight23OptimizedBoneWeightV2optimizedBoneWeightsV2weightoptimizedTangentsoptimizedNormalsoptimizedVertArrayoptimizedNormalArrayoptimizedUVArrayoptimizedBoneWeightArraySubMeshTrianglesNewoptimizedSubMeshArraytrianglesArrayextraBindPosesextraBoneNameHashesextraBonesisMaleslotGroupr/|WkwGî8(^0ÐM9äÎcÛÃSd*Ó-7ÿÿÿÿ4vAÞA.	A ]AhêÞ.	H«ÿÿÿÿ11ÿÿÿÿ	@Þ
-QjÕÿÿÿÿ11ÿÿÿÿ
-ÀÞHjÿÿÿÿ11ÿÿÿÿ@ÞQj#-ÿÿÿÿ11ÿÿÿÿÞ#jÿÿÿÿH3ÿÿÿÿ11ÿÿÿÿ@ÞQjÞBHMÿÿÿÿ11ÿÿÿÿ@ÞQjSa Þ!.	"Hgÿÿÿÿ#11ÿÿÿÿ$@Þ%Qj&m'Þ(.	)m*Þ+.	,m_FileIDm_PathIDIndexedTypeNamesAssetItemItems_QualifiedName_TypeIndex_NamePPtr<$Object>_Item_PathPPtr<$UMAMeshAsset>BaseMaleBoneBaseFemaleBoner*qo;ORV8-ñm]ª4%GéqPx?Õ§ð_úâÊEÝ7ÿÿÿÿ4vAÞA.	A ]AhêÞ.	H«ÿÿÿÿ11ÿÿÿÿ	@Þ
-QjHÿÿÿÿ11ÿÿÿÿ
-@ÞQjÕÿÿÿÿ11ÿÿÿÿÀÞHjÿÿÿÿ11ÿÿÿÿ@ÞQjH/ÿÿÿÿ11ÿÿÿÿ@ÞQjÕ<ÿÿÿÿ11ÿÿÿÿÀÞHjÿÿÿÿ11ÿÿÿÿ@Þ Qj!ÕBÿÿÿÿ"11ÿÿÿÿ#ÀÞ$Hjÿÿÿÿ%11ÿÿÿÿ&@Þ'Qj(ÕXÿÿÿÿ)11ÿÿÿÿ*ÀÞ+Hjÿÿÿÿ,11ÿÿÿÿ-@Þ.Qj/pÿÿÿÿ0Hÿÿÿÿ111ÿÿÿÿ2@Þ3Qj4¢ÿÿÿÿ511ÿÿÿÿ6Þ7jÿÿÿÿ8H¨ÿÿÿÿ911ÿÿÿÿ:@Þ;Qj<Þ«=Þ±>¹Ïÿÿÿÿ? ×@@H¨ÿÿÿÿA11ÿÿÿÿB@ÞCQjDm_FileIDm_PathIDDisplayValuecompatibleRaceswardrobeSlotHidessuppressWardrobeSlotsbeSuppressWardrobeSlotsMiniPackReciperecipeDataraceMiniPackedSlotDataslotsidscalecopyIdxMiniPackedOverlayDataoverlayflagsrTèbàï-QÓ2	v¿½r4·¸{ $()ëÑk"7ÿÿÿÿ4vAÞA.	A ]AhêÞ.	H«ÿÿÿÿ11ÿÿÿÿ	@Þ
-QjÕÿÿÿÿÀ11ÿÿÿÿ
-@Þ jm_FileIDm_PathIDserializedChunkrUL'g6c÷ý%Fmd&`="S ëÜý]ñÆ2ËýCa7ÿÿÿÿ4vAÞA.	A ]AhêÞ.	H«ÿÿÿÿ11ÿÿÿÿ	@Þ
-Qj'Þ
-.	Þ6ÕLÿÿÿÿ11ÿÿÿÿÀÞHjÿÿÿÿ11ÿÿÿÿ@ÞQjÕZÿÿÿÿ11ÿÿÿÿ@ÞÞjÕlÿÿÿÿ11ÿÿÿÿÀÞHjÿÿÿÿ11ÿÿÿÿ@Þ Qj!ÿÿÿÿ"¢°#Þ$.	%¢º&Þ'.	(ÄÖÿÿÿÿ)11ÿÿÿÿ*Þ+Äjÿÿÿÿ,Héÿÿÿÿ-11ÿÿÿÿ.@Þ/Qj0¢ô1Þ2.	3Húÿÿÿÿ411ÿÿÿÿ5@Þ6Qj78Þ9.	:Þ;H#ÿÿÿÿ<11ÿÿÿÿ=@Þ>Qj?¡B@¡MA¡XBm_FileIDm_PathIDPPtr<$UMARecipeBase>baseRaceRecipebaseOverlayLimitSizeswardrobeSlotsoverlayLimitSizesbackwardsCompatibleWithRaceThumbnailsraceThumbnailsPPtr<$Sprite>fullThumbfaceThumbWardrobeSlotThumbwardrobeSlotThumbsthumbIsForthumbraceNamePPtr<$UmaTPose>TPoseumaTargetgenericRootMotionTransformNameraceHeightraceRadiusraceMassÿÿÚ_FäZWÈ´-OBIr:ò7ÿÿÿÿH«ÿÿÿÿ11ÿÿÿÿ@ÞQjÕÿÿÿÿ11ÿÿÿÿ@ÞyjÞ	.$
-ñ-ÿÿÿÿ11ÿÿÿÿÞ
-jÿÿÿÿHÿÿÿÿ11ÿÿÿÿ@ÞQj9
-ÞCÞPy\Þ.$9bÞCÞPy\Þ.$¦nHÿÿÿÿ 11ÿÿÿÿ!@Þ"Qj#Õÿÿÿÿ$11ÿÿÿÿ%ÀÞ&Hjÿÿÿÿ'11ÿÿÿÿ(@Þ)Qj*L¦+@ÞÃ,ÞØ-ñäÿÿÿÿ.11ÿÿÿÿ/Þ0jÿÿÿÿ1Hÿÿÿÿ211ÿÿÿÿ3@Þ4Qj5H
-ÿÿÿÿ611ÿÿÿÿ7@Þ8Qj9AssetBundlem_PreloadTablem_FileIDm_PathIDm_ContainerAssetInfopreloadIndexpreloadSizeassetm_MainAssetm_RuntimeCompatibilitym_AssetBundleNamem_Dependenciesm_IsStreamedSceneAssetBundlem_ExplicitDataLayoutm_PathFlagsm_SceneHashesÿÿãN¸îvB°ûÉØÙ°O¬7ÿÿÿÿÕÿÿÿÿA11ÿÿÿÿA@ÞAjA$AÞ$A.-A¦6H«ÿÿÿÿ	11ÿÿÿÿ
-@ÞQj>
-LDm_ComponentComponentPaircomponentm_FileIDm_PathIDm_Layerm_Tagm_IsActiveÿÿv¨xIBºÜ7ø«4U[t7ÿÿÿÿ4vAÞA.	Aå ¡" ¡$ ¡& ¡( å*	 ¡"
- ¡$ ¡& å:
- ¡" ¡$ ¡& ÕGÿÿÿÿA11ÿÿÿÿA@ÞAÎjAÞA.	AÎRÞ.	m_FileIDm_PathIDm_LocalRotationxyzwm_LocalPositionm_LocalScalem_Childrenm_FatherÝÆ°ÖýÎ¨0¶§ü0æ4ØäêG¾ÍÿLarnÅ±À!lÿo²÷¸0$p¿îåû08 &Æà¶P<© )L©bëª°+XÚH]Ã,@ÀÌl~_ÕPX¯¯^ziÙH-X¨#i`}¥ì /`û5ðô2BÉí1hh2¼4rà®Ú+4¨TêumÙÑ(43Xí¼ý¸Ù`4l`Ë¬;§Ð6<D9Ç1`3%88È®
-óIX@	?vÞOLHODö\Éì¶ðQOD±&D2<dXL;$+kÙqtR\êG¾ÍÿÀÌl~_Õ4rà®Ú+4È®
-óID±&D2<dRaceData`="S ëÜý]ñÆ2ËýRaceDataUMAAssembly-CSharp.dll
-UMATextRecipe%GéqPx?Õ§ð_úâÊ
-UMATextRecipeAssembly-CSharp.dllUMAMeshAssetÐ
-|H¼ýBèü^UMAMeshAssetUMAAssembly-CSharp.dllUMAAssetIndexer0ÐM9äÎcÛÃSd*ÓUMAAssetIndexerAssembly-CSharp.dllUmaTPoser4·¸{ $()ëÑkUmaTPoseUMAAssembly-CSharp.dll4rà®Ú+4BaseBoneMale_MeshBaseBoneMale.¸Å³M½c­¿W[*?¼5e­¿ M=>ä½¿Ì»µP|4à³?Lh?×Guºa*×>6¾uÓÉ<á?QÊP½Ë_j<ÃËÖ¾ÛÝg=*îg??<¿?Ìs(È.¿80	?&D¼5¿È.9¿&D¼µÜ4)èG²?	Lh¿z¡tº`*×>5¾³ÍÉ¼ß?MÊP½Ä_j<ÈËÖ¾Üg½%îg¿?<??EV¿O=MJ?g¸¾íI¿jI=Ú¿£
-?,:½O\¿³r"<Òô<?¿Í½ÉT?h¾æÓT¿7³=>^
-¿dÍ	?,V½ÚU¿}½eVe=?ãq³¾I½^no?k¶¾o¿äfW=Ù+²¾,fð>!V½ÚU¿{½^Ve=?É¾K£6½k?8¶¾ãk¿×y=	È¾®÷>ä½ªD¿Ç½\=?Í~¾K¢Z½;w?¨Ð¾NÀw¿	[=P÷{¾·gÚ>Ä½ªD¿Ä½\=?z¾¾$êÁ>pc?`9Ï¾ZÆ>ób??¾}=3¡b¿O>´|¿¾=ìâ>?dÍ"¿®=ÀD?1EÉ¾6Qï<$?!j½Z]<lE¿"!Ö¼*Ö"¿º??í¼¾X$¾bÔk?ÿ»¾*m¿`c¼+¾¾µ®ó>Ów=ùÝ}¿üè½m§=?{ö¾Í±J<@\`?¾å¾Ýö_¿¼2^=pö¾¾?q [½y¿z¼×<?³Ì½É'ò½r}?£¢ó¾{Ç~¿úfQ½Ë ª½ê®³>Õw=÷Ý}¿	üè½§=?·¾Å>êh?®Ä¾O)¹>0j?E,8¾9»9»2¡b¿S>²|¿¾=ìâ>?Z´¾£Â;Ôo?Ñæ¶¾A3o¿ª$c=S2´¾Qxð>p [½y¿z¼~×<?FV?LO=MJ?g¸¾!íI?I=Ú¿
-£
-?»8½O\?»r"¼Íô¼?{ö>>¬J<@\`?¿å¾àö_?30^=pö¾¿?[½w?z<×¼??k
-½¢ÉT?h¾èÓT?Ë°=>^
-¿cÍ	?FS½ÚU?~=dVe½?ßq³>
-I½\no?i¶¾!o?.dW=Þ+²¾0fð>8S½ÚU?|=`Ve½? ¾>êÁ>pc?_9Ï¾³YÆ¾b??¾}=C¡b¿¾µ|¿>@ìâ¾?ÿÉ>n¤6½k?7¶¾çk?ÑÔy=
-È¾®÷>ù½«D?Ç=\½?Í~>£Z½7w?§Ð¾SÀw?B[=W÷{¾¸gÚ>Ý½«D?Ç=\½?ä¼>$¾`Ôk?{ÿ»¾*m?,kc¼.¾¾¹®ó>¨w=ôÝ}?üè=o§½?Z´>º;Ôo?Ðæ¶¾D3o?ö!c=W2´¾Sxð>[½w?z<}×¼?Ì=ç'ò½r}?¢¢ó¾xÇ~?]iQ½Ð ª½ê®³>6w=óÝ}?
-üè=-§½??
-½ÉT?h¾æÓT?Ø°=:^
-¿aÍ	?S½ÛU?b=HVe½?hÍ"?+­=ÂD?3EÉ¾|Kï¼$? j½X]<lE¿%Ö<(Ö"?º¿?¢·>mÅ>!êh?¯Ä¾û(¹¾£0j?C,8¾»9»A¡b¿¾¶|¿>@ìâ¾?Ï÷­4Ù
-r>ë¾x¿E=H?ôzÁ5ë¾x¿Û
-r¾ôvU>¿®·±µü/µsl 5HC¬å"¿À~:>|E?Öð¿Å ¼é?åc¼^C¼lE¿!Ö¼*Ö"¿º??«å"?Ø'~:>|E?×ð¿% <é?âc¼]C¼	lE¿%Ö<'Ö"?¹¿?w2u8<Ûû¿çxZ?,G¼5Ùû¿~u8¼³¨<¿$>¼µ&"³ð3?ïµ¶X¥¿á]W=±Ý3=´¶à]W½V¥¿]5??{1¶ú'°¶ª½?ïµ¶X¥¿á]W=ÒÝ3=´¶à]W½V¥¿ù\5??{1¶ú'°¶=?+ªÈ)¿Ïù>îî>¶¿È)©¿îî>6ºBª?/í=I½÷}?I×ô¾c¤½ç,¿ð¦)½¥<<=«}?E³½qWó½ÝÝÜ=?µ/í½(I½÷}?J×ô¾ö¢=ê,¿ë¦)½¢<<@«}?Ý±=Wó=åÝÜ½?l\è=+Ò¨½Sx}?À7¾Nz½ó~¿v½ÈÒ<=«}?M³½nWó½ÜÝÜ=? \è½Ò¨½Tx}?¿7¾åx=÷~¿t½ÄÒ<@«}?æ±=Wó=åÝÜ½?Ë-¶þ¿]¾ý»c­=wÙ¶X¾ý;þ¿tI>?ûÿ?k*¶AÚ¶qZ£6?¿ã½ ÉT?h¾áÓT¿:³==^
-¿`Í	?#V½ÕU¿½Ve=?Ü?4¨H¨?ìÔw½
-í½ÑE~¿=P<ÓE~?í½@©*³Ñ=?
-í=ÑE~?-²ÒÜD=©í1D2?-G²»ÓE~?í½(®±(³Ñ=?">±§È¨?ëÔw½í=×E~¿È(9P<ÖE~?í=¯)2³Ñ½?í½×E~?î²ÒÜD=ìí±82?-G²»ÖE~?í=M'®13³Ñ½?0ÂÃ6½f»þÌ±Ï(¸ªë¨´#Sè=õX~?þÿ?þÿ??	bone_Headnx!¡XÃÜ,;½¸¾»Â1¤¼0Ó<¥Z°½¾l|?ÿÿ???bone_Right_Finger41ì(<®Â¼
-×#3k}°¬/«¾i}?ÿÿ?ÿÿ?ÿÿ?bone_Left_Finger42O-(õ|!
-!¾cô¸Í°±¯¿w¨?ç³òëÐ<¯ê????bone_Spine1²÷¤q¯YÁî.½
-s¼£ýb>H.¼Üy??ÿÿ??
-bone_RightArm
-­ÊE|ih
-¾G8.?Ù8/;9<¯¼Ç};????bone_RightHand<®åÖYX¾P»/2¯<áö????bone_LeftLeg;l-²=(ùîa½xÂ=
-×#²§51A51ô5¿ô5????bone_LeftToeUù´1itëL{Z½
-Wf»!Hº*ÂÏ;û(=è±½ã???üÿ?bone_Left_Weapon#ª¦¸F
-Ípkù¾Ý0ìÏÿ²Ý=ìÏ????bone_LeftForeArm:§¼à£_®D½¹R'ª3N¶5:5ÀÐ¹ÿÿ????
-bone_Spineq¯YÁÝ'1[\´¯¼
-×£1Ù±öÃ°5ë½ZN~????bone_Left_Finger22ÉrÂsÛ{[)Q½=ªÙ»®9¼Á³»¾$½Q¾î©}?þÿ?þÿ??bone_Right_Finger31+¾ÓÂ<®Bu¾ù¦¼R=ãã	¿¼-¼ÎªW?ëyÎ;?ÿÿ??
-bone_LeftClavs5Û²÷¤G»¼
-×#3X8±~su±×Ã½º??ÿÿ???bone_Left_Finger32»iÛ2ê`BL{Z½
-Wf»GH:ïÁÏ»¼û(½è±½ã????bone_Right_Finger21jÈÛ<®ö,°¼
-×#19¿0úÀÚ®üÕ½¢Y????bone_Left_Finger12
-Ù_é°Vp¯¹¼ë%<Gj<¶=¿«ÿy>ûøý<7í????bone_Right_Finger01èíþé<®Íí¦½Ü½»´?0:?½²/?ó2s6g{5???bone_Left_Spine_Backpack5øóê²÷¤ia¾
-×£1IÌÃ¼#w=Ã½K?ÿÿ?ûÿ?þÿ?bone_LeftAnkle1itë;l-²
-×£3°Ã3â&N=øº<´Y?p=Gßp=ÿÿ???bone_LeftLegUpper=(ùîÝ'1[¶¼E¾?°)¸²D¾?½(¸?ÿÿ?ÿÿ?þÿ?bone_Left_Finger02KèDðñ¹MidV½ÂÍ»}v><y¸¾¤v¼"í ½ë-????bone_Right_Finger11©Üåð<®¬¼;3"5Xè4????bone_Hips_Dummy×2ñÝ'1[ia¾
-×#±
-×#²CÌÃ<:w½¿½K?ÿÿ?üÿ?ÿÿ?bone_RightAnkleWÉùÖð@Bu¾¦¼p½ãã	?è-<ÎªW?mmÎ;???bone_RightClavÊE|²÷¤W'¾Å&'¼³Ö-)sNÖ4Ë_¾ºU}????	bone_Neck¡XÃ²÷¤á,;½¸¾»Á1¤<1Ó¼¥Z°=¾l|?ÿÿ???bone_Left_Finger41õ|!
-F
-ÍpÂ¼íÚï°£1ª¾i}????bone_Right_Finger42Vyì(fª/½KX¡½k=Í4?C<5?W6Á5???bone_Right_Spine_Weaponãc/&²÷¤
-×£³Ê-P³â&N½
-º<²Y?ì½Ëàp½ÿÿ??ÿÿ?bone_RightLegUpper¨úÊ8Ý'1[X¾
-×#²E0Ñ´?²¯<áö????
-bone_RightLegÖð@¨úÊ8)Q½=ªÙ»«9<È³;¾$=R¾î©}?ýÿ???bone_Left_Finger312ê`BF
-Ípp´¯¼
-×#³ZN~°5ë.5ë½ZN~???þÿ?bone_Right_Finger22ÐÞÁBjÈÛRª/½ïW¡½Ç½Í4?C<5?W6Á5???bone_Left_Spine_WeaponÁÛB²÷¤a½wÂ=
-×#²Õ©*ê¯ªô5¿ô5??ÿÿ??
-bone_RightToe¸QFWÉùkù¾
-×£°
-×#3Ý°íÏÿ2Ý=ìÏ????bone_RightForeArmåÖY
-­ôÿÿ¾?ôÿÿ>????	bone_HipsÝ'1[$VxG{Z½
-Wf»HºôÁÏ;¼û(=è±½ã????bone_Left_Finger21sÛ{[F
-ÍpG»¼
-×£±GS1_p1×Ã½º??ÿÿ??ÿÿ?bone_Right_Finger32ïÚ[+¾ÓÂW{Z½
-Wf»¤H:.ÂÏ»Çû(½Î±½ã?þÿ???bone_Right_Weapon××]<®ë.½Âõ1s<¥ýb¾J.¼Üy????bone_LeftArmà£_s5Û¯¹¼ë%<Jj¼¶=?®ÿy¾üøý<8í????bone_Left_Finger01ñ¹MiF
-Ípö,°¼¢Yÿ0ÿÕ¯ÿÕ½¢Y???þÿ?bone_Right_Finger12ìi©ÜåðdV½ÂÍ»}v>¼Ï}8»¤v<%í ½ë-????bone_Left_Finger11°VpF
-Ípgh
-¾
-×#1G8.¿w8/»0<¯¼Ç};?ÿÿ?þÿ?ÿÿ?
-bone_LeftHandF
-Íp:§¼p¶¼
-×#³'¸2@¾?°@¾?½(¸????bone_Right_Finger02R¼÷pèíþéÏù>ë5?û5????Bip01$Vx©w&30©w&3.²÷¤s5Ûq¯YÁÊE|<®jÈÛÐÞÁB+¾ÓÂïÚ[èíþéåÖYì(©ÜåðVyR¼÷pìiF
-Íp°VpsÛ{[ÉrÂñ¹Mi2ê`B»iÛõ|!
-Ù_éO-(#ª¦¸:§¼KèDð¡XÃ
-­à£_nx!ÁÛBãc/&×2ñ=(ùî¨úÊ8;l-²Öð@5øóê××]1itëUù´WÉù¸QF	bone_RootêumÙÑÈ®
-óI
-BaseFemaleû5ðô2BÉí<Assets/Arts/AvatarAssets/NewFemale/RaceBase/BaseFemale.assetBaseFemale_NÚH]Ã>Assets/Arts/AvatarAssets/NewFemale/RaceBase/BaseFemale_N.assetBaseMale¨#i`}¥ì8Assets/Arts/AvatarAssets/NewMale/RaceBase/BaseMale.asset
-BaseMale_N`Ë¬;§:Assets/Arts/AvatarAssets/NewMale/RaceBase/BaseMale_N.assetFemaleBaseRecipe;$+kÙqtMAssets/Arts/AvatarAssets/NewFemale/RaceBase/BaseRecipe/FemaleBaseRecipe.assetFemaleBaseRecipe_maxXí¼ý¸ÙQAssets/Arts/AvatarAssets/NewFemale/RaceBase/BaseRecipe/FemaleBaseRecipe_max.assetFemaleBaseRecipe_max_NÆà¶P<©YAssets/Arts/AvatarAssets/NewFemale/RaceBase/BaseRecipeNormal/FemaleBaseRecipe_max_N.assetFemaleBaseRecipe_N¿îåû08UAssets/Arts/AvatarAssets/NewFemale/RaceBase/BaseRecipeNormal/FemaleBaseRecipe_N.assetMaleBaseRecipe¯¯^ziÙIAssets/Arts/AvatarAssets/NewMale/RaceBase/BaseRecipe/MaleBaseRecipe.assetMaleBaseRecipe_maxarnÅ±MAssets/Arts/AvatarAssets/NewMale/RaceBase/BaseRecipe/MaleBaseRecipe_max.assetMaleBaseRecipe_max_Nö\Éì¶ðQUAssets/Arts/AvatarAssets/NewMale/RaceBase/BaseRecipeNormal/MaleBaseRecipe_max_N.assetMaleBaseRecipe_Nÿo²÷¸QAssets/Arts/AvatarAssets/NewMale/RaceBase/BaseRecipeNormal/MaleBaseRecipe_N.assetÝÆ°ÖýÎD9Ç1`3%ÀÌl~_ÕMaleBaseRecipe_maxNoneBaseMaleBase_male_Chest_1dÿÿÿÿBase_male_body_OverlayBase_male_Chestdÿÿÿÿmale_cos_top_new_max_OverlayBase_male_Feetdÿÿÿÿmale_cos_shoe_new_max_OverlayBase_male_Headdÿÿÿÿmale_cos_no1_head_001_OverlayBase_male_Hairdÿÿÿÿmale_cos_no1_hair_001_Overlay
-Base_male_Legdÿÿÿÿmale_cos_bottom_new_max_OverlayBase_male_Leg_1dHead_Hair_Base_Additive_Slotdÿÿÿÿ&Male_Hairroot_Sc_BrazilSoldier_OverlayÀÌl~_ÕMaleBaseRecipe_NNone
-BaseMale_NBase_male_Chest_N_1dÿÿÿÿBase_male_body_Overlay_NBase_male_Chest_Ndÿÿÿÿmale_top_cos_new_Overlay_NBase_male_Feet_Ndÿÿÿÿmale_shoe_cos_new_Ovrlay_NBase_male_Hair_Ndÿÿÿÿmale_cos_no1_hair_001_Overlay_NBase_male_Head_Ndÿÿÿÿmale_cos_no1_head_001_Overlay_NBase_male_Leg_Ndÿÿÿÿmale_bottom_cos_new_Overlay_NBase_male_Leg_N_1dHead_Hair_Base_Additive_Slotdÿÿÿÿ&Male_Hairroot_Sc_BrazilSoldier_OverlayÀÌl~_ÕFemaleBaseRecipe_NNoneBaseFemale_NBase_female_Chest_Ndÿÿÿÿfemale_top_cos_new_Overlay_NBase_female_Chest_N_1dÿÿÿÿfemale_body_Overlay_NBase_female_Leg_Ndÿÿÿÿfemale_bottom_cos_new_Overlay_NBase_female_Leg_N_1dBase_lobby_Female_Head_Ndÿÿÿÿfemale_head001_Overlay_NBase_lobby_Female_Hair_Ndÿÿÿÿfemale_hair_001_Overlay_NBase_female_Feet_Ndÿÿÿÿfemale_shoe_cos_new_Overlay_NHead_Hair_Base_Additive_Slotdÿÿÿÿ Female_Hairroot_Sc_Agent_OverlayÀÌl~_ÕFemaleBaseRecipe_max_NNoneBaseFemale_NBase_female_Chest_Ndÿÿÿÿ female_cos_top_new_max_Overlay_NBase_female_Chest_N_1dÿÿÿÿfemale_body_Overlay_NBase_female_Leg_Ndÿÿÿÿ#female_cos_bottom_new_max_Overlay_NBase_female_Leg_N_1dBase_lobby_Female_Head_Ndÿÿÿÿfemale_head001_Overlay_NBase_lobby_Female_Hair_Ndÿÿÿÿfemale_hair_001_Overlay_NBase_female_Feet_Ndÿÿÿÿ!female_cos_shoe_new_max_Overlay_NHead_Hair_Base_Additive_Slotdÿÿÿÿ Female_Hairroot_Sc_Agent_OverlayD±&D2<dBase_Male_TPose$ÍÌL=ÍÌL=????êG¾ÍÿBaseFemale_NÆà¶P<©NoneHandsHeadFeetLegsChestHelmetBagPackVestLegPackParachuteBagHairSetFaceHeadAdditive
-BaseFemaleBaseFemale_N@>HBÀÌl~_ÕMaleBaseRecipeNoneBaseMaleBase_male_Chest_1dÿÿÿÿBase_male_body_OverlayBase_male_Chestdÿÿÿÿmale_top_cos_new_OverlayBase_male_Feetdÿÿÿÿmale_shoe_cos_new_OvrlayBase_male_Headdÿÿÿÿmale_cos_no1_head_001_OverlayBase_male_Hairdÿÿÿÿmale_cos_no1_hair_001_Overlay
-Base_male_Legdÿÿÿÿmale_bottom_cos_new_OverlayBase_male_Leg_1dHead_Hair_Base_Additive_Slotdÿÿÿÿ&Male_Hairroot_Sc_BrazilSoldier_OverlayêG¾ÍÿBaseMalearnÅ±NoneHandsHeadFeetLegsChestHelmetBagPackVestLegPackParachuteBagHairSetFaceHeadAdditiveBaseMaleL©bëª@>HBêG¾Íÿ
-BaseFemaleXí¼ý¸ÙNoneHandsHeadFeetLegsChestHelmetBagPackVestLegPackParachuteBagHairSetFaceHeadAdditive
-BaseFemale@>HBavatar/assetindexerÝÆ°ÖýÎ¶§ü0æ4êG¾ÍÿarnÅ±ÿo²÷¸¿îåû08Æà¶P<©L©bëªÚH]ÃÀÌl~_Õ¯¯^ziÙ¨#i`}¥ìû5ðô2BÉí4rà®Ú+4êumÙÑXí¼ý¸Ù`Ë¬;§D9Ç1`3%È®
-óI@	?vÞOLö\Éì¶ðQD±&D2<d;$+kÙqt+assets/resources/avatar/assetindexer.prefabêumÙÑavatar/assetindexer@	?vÞOL¶§ü0æ4AssetIndexerÀÌl~_ÕFemaleBaseRecipe_maxNone
-BaseFemaleBase_Female_Hairdÿÿÿÿfemale_hair_001_OverlayBase_Female_Head_ingamedÿÿÿÿfemale_head001_OverlayBase_female_Feetdÿÿÿÿfemale_cos_shoe_new_max_OverlayBase_female_Legdÿÿÿÿ!female_cos_bottom_new_max_OverlayBase_female_Chestdÿÿÿÿfemale_cos_top_new_max_OverlayBase_female_Chest_1dÿÿÿÿfemale_body_OverlayBase_female_Leg_1dHead_Hair_Base_Additive_Slotdÿÿÿÿ Female_Hairroot_Sc_Agent_OverlayêG¾Íÿ
-BaseMale_Nö\Éì¶ðQNoneHandsHeadFeetLegsChestHelmetBagPackVestLegPackParachuteBagHairSetFaceHeadAdditiveBaseMale
-BaseMale_NL©bëª@>HB4rà®Ú+4BaseBoneFemale_MeshBaseBoneFemale(| ³ìM½c­¿Ì<4?·¬5e­¿îM=ëE½¿
-Ì«µ|4ÐÆ´?#ï§=|<}?ðà¿uü«»Òö¿
-6<B¼f"?fÖ»¶¾§½LÄ=?ýg¿>[½pÚP?ëÎ¿E·¾¶}?UÞ¼½ü´<N¿[/ú½êà¿mu??´>:±>­r?k¥à¾Þ(q?÷>1¾ðÞÓ>ÊÛ<¾ûDz?aÏ½ø-=?C×?;ó>O?j¬¾R?ö,/½pô¿û}?ýE½`
-}?/'¾4¹=?>øa½íÍ|?v2¿Ë v?÷1_¾?Ú¾~¨>U:e>
-ry?{ö«<äNz=?søå½º±¦=«}?Ò¿úõy?W­F>0Â=èß]>ÕÛ<¾þDz?aÏ½	ø-=?¡>Ü¦¤>d?w(Õ¾Ñº½½]r?Ï¾Ë#I>Ëq¿O<)ý§>QîË¾?*ò¾pãF=ZÖs?Äí¿QUm?ÎÌ`¾Ô>B¯=B:e>
-ry?|ö«<ÔNz=?ø?çÇ= [?ÜÊ§¾~.\?=Ø¶¼My¿·©ÿ>Äåk¼a?¾;½¯s=?Ù§>çù#>Z|n?Ú¶Ô¾V½¢©|?
-F ¾}l>þÊq¿[O<(ý§>QîË¾?jH?U>RC?.¼¾ÍtÖ½¾u?¾>[M¿9â=3?k¿?§¾u±>­r?m¥à¾Ô(q¿Ð÷>0¾ñÞÓ>Ü<¾÷Dz¿aÏ=ø-½?>×¿­ó>	O?h¬¾R¿g*/½rô¿ü}?¯F½^
-}¿1'>4¹½?!¾÷a½íÍ|?v2¿Þ v¿01_¾?Ú¾£~¨>9e>ry¿}ö«¼äNz½?øå=±¦=«}?Ò¿ñõy¿®F>2Â=êß]>Ü<¾ôDz¿aÏ=
-ø-½?¡¾û¦¤>d?w(Õ¾Dº=º]r?Î¾Ï#I>Ëq¿ÉI¼*ý§¾SîË>?1ò>âF=]Ös?Åí¿`Um¿Ì`¾Ô>J¯=9e>ry¿ö«¼ÝNz½?õ¿È=.[?æÊ§¾.\¿¨Ð¶¼Hy¿µ©ÿ>õk¼a¿B;=Ïs½?Ê§¾)ú#>X|n?Û¶Ô¾_=¢©|?
-F ¾|l>Ëq¿I¼+ý§¾TîË>?_H¿>RC?,¼¾EvÖ=¾u?¾>^M¿øà½1¿k??sxs?W<Ë>3b¾*É5¿ª?ÜÚP½"àø<x7¾{¢F=['s?ÓÓD¿?ìÂá3Ê|=³\¿q?ÁÃ¬5±\¿Ê|½¿=¿´V«µØR´¨hó3?nxs¿I<Ê>2b¾ò[Æ5Âª?ßÚP½(àø<|7¾¡F½]'s¿ÔÓD??ÊÛò4ñm>=ës¿9I?f´µ5;ës¿óm¾Ø>¿É²µ+bµéÅJ5HCûg?Û?[½kÚP?éÎ¿
-¸>w¶}?UÞ¼¼ü´<N¿0ú=éà?mu¿?`H¿>RC?OÝ¾ï«=.u?Þ¾nÙ!>!N¿4Ç½X¿¿S??jH?R>RC?OÝ¾£í«½.u?Þ¾jÙ!>!N¿nÇ=W¿?S¿?Ë5¶
-þ¿×»ý»&v=Ù¶Ñ»ý;þ¿B?þÿ?°k2¶AÚ¶N£¥6?³&¶[¥¿4^W=Áøë<îÉ´¶3^W½V¥¿Al9??{9¶ú'°¶­=?³&¶[¥¿4^W=øë<îÉ´¶3^W½V¥¿Ml9??{9¶ú'°¶½?6$¿£p
-?A¶¿/¿A6B¤¯X¦?1ï§½|<?ðà¿ã«;Ðö¿6<B¼h"?ÿÕ;Ì¾§=WÄ½?C|¦=r½¨~?¾÷C¼¦l¿¹
-½I<f"?Ö»·¾§½KÄ=?p|¦½P½ª~?¾ÏêC<¦l¿¹
-½I<h"?fÖ;Ë¾§=WÄ½?gp4µë>j}¿>*[?æ®5k}¿´ë¾=>¿f	¨µÔß´ì@Ó4??Ø½¤j`¾ÎÆy¿¥¼ËÆy?¢j`¾È¨æa¹=?j`>ÏÆy?B±³Ya=â¥3ùq3?Æâ9ÌÆy?j`¾äY³éa¹=?§Ã©È¨?Ø½âi`>ÙÆy¿ ¥¼ÙÆy?âi`>¨ða¹½?×i`¾ÙÆy?Ô±²[a=µK³¾Êb2?Æâ9ÙÆy?×i`>·$	3ôa¹½?+¤ü½f»¸þÌ±V18ª¬]j´+¡=À4????	bone_Headnx!¡XÃuÃß½õHÍ¸×C¯!
-ªÎ3´Lw=r????bone_Spine1²÷¤q¯YÁR/_½
-×£3ï<1>¯t½¦r????
-bone_RightArm
-­ÊE|;¾
-×£2
-×#3Ç±-?·ò½i½E;????bone_RightHand<®åÖYX	w¾KÜ¬¥*@²9(=´È?þÿ?ÿÿ?ÿÿ?bone_LeftLeg;l-²=(ùî×º½õ×@=Xà^4>qÒ3ò5¿ô5????bone_LeftToeUù´1itëG{Z½®Wf»\HºÀÏ;û(=¢±½ä???þÿ?bone_Left_Weapon#ª¦¸F
-Íp¾
-×£±
-×#3_dR²óò2C(>,|??ýÿ??bone_LeftForeArm:§¼à£_4½^«;3Ñ73Ç'
-¶N@5Ú½)×??ÿÿ?ÿÿ?
-bone_Spineq¯YÁÝ'1[®1¼
-×#³a2V±Ø:l¾Dy????bone_Left_Finger22ÉrÂsÛ{[±Ã½-¼OíÞ<y¿ªv¹¼O?Mt¨¹???
-bone_LeftClavs5Û²÷¤n8½
-·E»
-³¼kjÄ=Ï&¾·«\¾²£v????bone_Right_Finger21jÈÛ<®põ°¼
-×#3ÂsÛ±í¡³0XKM¾pÍz?þÿ??ÿÿ?bone_Left_Finger12
-Ù_é°Vp¤0¼Í<J<MÀÉ<2/¿Ó >$§½d6??ÿÿ??bone_Right_Finger01èíþé<®£Þp½Ü½½´?0:?½²/?ù2s6K{5???bone_Left_Spine_Backpack5øóê²÷¤t¾
-×£0
-Ø½MS5=?|é¼å6~????bone_LeftAnkle1itë;l-²
-×£3hË3NmP=ÌT¼Æ?[A;Ûû'=??ÿÿ?bone_LeftLegUpper=(ùîÝ'1[çå¼Áÿ0g*¯gª½Á????bone_Left_Finger02KèDðñ¹Mi¾
-×£±
-×#3²P<W;ø?(>È|??þÿ?ÿÿ?Bip01 L ForeTwistw~ðà£_)ÙG½áz»G:1<H½­e8<$¾|???ÿÿ?bone_Right_Finger11©Üåð<®t¾
-×#2
-Ø=/S5½<|é¼ä6~???ÿÿ?bone_RightAnkleWÉùÖð@;½
-×#2US¼÷&ÿ²×²ú??ÿÿ??Bip01 R ForeTwist1Ø×ûHþ±Ã½Ü¼íÞ¼y?';t9¼O?þN©¹???bone_RightClavÊE|²÷¤{Õþ½kñ®¼Úe³8Â*Í5B¦6¾
-å{????	bone_Neck¡XÃ²÷¤¾
-×#±
-×£³²P¼O»ù?(>È|????Bip01 R ForeTwistHþ
-­;½
-×#³VS<VS¯ú²ú??þÿ??Bip01 L ForeTwist1oæþw~ðZ¥¼MX¡½=Í4?C<5?W6Á5???bone_Right_Spine_Weaponãc/&²÷¤
-×£³\G³NmP½T¼Æ?5A»_ý'½?ÿÿ??bone_RightLegUpper¨úÊ8Ý'1[Y	w¾d¯.w819(=´È????
-bone_RightLegÖð@¨úÊ8Â1¼
-×#³ëg±] °Ù:l¾Dy????bone_Right_Finger22ÐÞÁBjÈÛZ¥¼ôW¡½ª½Í4?C<5?W6Á5???bone_Left_Spine_WeaponÁÛB²÷¤Öº½õ×@=
-×#²=UÀ³Ê\/´ò5¿ô5????
-bone_RightToe¸QFWÉù¾
-×#±
-×£³<(1±3C(>,|????bone_RightForeArmåÖY
-­ôÿÿ¾?ôÿÿ>??ÿÿ?ÿÿ?	bone_HipsÝ'1[$Vxn8½f¶E»
-³<jjÄ½Ð&>º«\¾²£v?þÿ?þÿ?ÿÿ?bone_Left_Finger21sÛ{[F
-Íp\{Z½fVf»{H:/ÄÏ»Óû(½Ö±½ã?üÿ?ÿÿ??bone_Right_Weapon××]<®R/_½
-×#1
-×£³ï¼1¾¯t½¦r????bone_LeftArmà£_s5Û¤0¼õ<J<MÀÉ¼2/?Ô ¾(§½d6?þÿ?ýÿ?þÿ?bone_Left_Finger01ñ¹MiF
-Íp\õ°¼t±^@2XKM¾pÍz????bone_Right_Finger12ìi©Üåð)ÙG½z»G:1¼I=«e8¼$¾|?þÿ?þÿ?þÿ?bone_Left_Finger11°VpF
-Íp;¾
-×#3
-×#³Ç±-¿±ò=i½E;?ÿÿ???
-bone_LeftHandF
-Íp:§¼çå¼Áÿ±
-g*0
-gª½Á????bone_Right_Finger02R¼÷pèíþé/¤p
-?ë5?ý5?ÿÿ?ÿÿ??Bip01$Vx©w&3+©w&3(²÷¤=(ùî
-­°VpF
-ÍpsÛ{[
-Ù_éñ¹MiÉrÂ#ª¦¸KèDðoæþ©Üåð<®jÈÛìièíþéÐÞÁB××]R¼÷pØ×ûs5Ûq¯YÁÊE|¡XÃà£_Hþw~ð5øóêãc/&ÁÛBÝ'1[¨úÊ8;l-²Öð@nx!1itëUù´WÉù¸QF	bone_RootêumÙÑ?Ø8\@Î(v?^'@???ÀÌl~_ÕMaleBaseRecipe_max_NNone
-BaseMale_NBase_male_Chest_N_1dÿÿÿÿBase_male_body_Overlay_NBase_male_Chest_Ndÿÿÿÿmale_cos_top_new_max_Overlay_NBase_male_Feet_Ndÿÿÿÿmale_cos_shoe_new_max_Overlay_NBase_male_Hair_Ndÿÿÿÿmale_cos_no1_hair_001_Overlay_NBase_male_Head_Ndÿÿÿÿmale_cos_no1_head_001_Overlay_NBase_male_Leg_Ndÿÿÿÿ!male_cos_bottom_new_max_Overlay_NBase_male_Leg_N_1dHead_Hair_Base_Additive_Slotdÿÿÿÿ&Male_Hairroot_Sc_BrazilSoldier_OverlayÀÌl~_ÕFemaleBaseRecipeNone
-BaseFemaleBase_Female_Hairdÿÿÿÿfemale_hair_001_OverlayBase_Female_Head_ingamedÿÿÿÿfemale_head001_OverlayBase_female_Feetdÿÿÿÿfemale_shoe_cos_new_OverlayBase_female_Legdÿÿÿÿfemale_bottom_cos_new_OverlayBase_female_Chestdÿÿÿÿfemale_top_cos_new_OverlayBase_female_Chest_1dÿÿÿÿfemale_body_OverlayBase_female_Leg_1dHead_Hair_Base_Additive_Slotdÿÿÿÿ Female_Hairroot_Sc_Agent_Overlay
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Windows\system32> MT5N2LL/A
+[ENTER]
+IOS=18.6.2(22G100)
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility]
+"MessageDuration"=dword:00000005
+"MinimumHitRadius"=dword:00000000
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\AudioDescription]
+"Locale"=""
+"On"="0"
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Blind Access]
+"On"="0"
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\HighContrast]
+"Flags"="126"
+"High Contrast Scheme"=""
+"Previous High Contrast Scheme MUI Value"=""
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Preference]
+"On"="0"
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response]
+"AutoRepeatDelay"="1000"
+"AutoRepeatRate"="500"
+"BounceTime"="0"
+"DelayBeforeAcceptance"="1000"
+"Flags"="126"
+"Last BounceKey Setting"=dword:00000000
+"Last Valid Delay"=dword:00000000
+"Last Valid Repeat"=dword:00000000
+"Last Valid Wait"=dword:000003e8
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\MouseKeys]
+"Flags"="62"
+"MaximumSpeed"="80"
+"TimeToMaximumSpeed"="3000"
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\On]
+"Locale"=dword:00000000
+"On"=dword:00000000
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\ShowSounds]
+"On"="0"
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\SlateLaunch]
+"ATapp"="narrator"
+"LaunchAT"=dword:00000001
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\SoundSentry]
+"Flags"="2"
+"FSTextEffect"="0"
+"TextEffect"="0"
+"WindowsEffect"="1"
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\StickyKeys]
+"Flags"="510"
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\TimeOut]
+"Flags"="2"
+"TimeToWait"="300000"
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\ToggleKeys]
+"Flags"="62"
+
+Windows Registry Editor Version 5.00
+; Windows_10+8.x_MouseFix_ItemsSize=100%_Scale=1-to-1_@6-of-11
+
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+
+"SmoothMouseXCurve"=hex:\
+	43,00,00,00,22,00,00,00,\
+	C0,CC,0C,00,00,00,00,00,\
+	80,99,19,00,03,00,00,00,\
+	40,66,26,00,00,0C,00,00,\
+	00,33,33,00,00,00,00,00,00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,z0,e0,7a,000100
+"SmoothMouseYCurve"=hex:\
+	42,32,00,00,00,00,00,00,\
+	00,00,38,00,00,00,53,00,\
+	00,00,70,00,10,00,00,00,\
+	00,00,A8,00,00,00,00,00,\
+	01,00,E0,00,00,00,00,01,90,,66,a6,02,00,0000100
+
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"ActiveWindowTracking"=dword:00000001
+"Beep"="No"
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500" =hex(-14):-856-64
+"DoubleClickWidth"="4" =hex(-14):125-65
+"ExtendedSounds"="No"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="7"
+"MouseSpeed"="123"
+"MouseThreshold1"="24"
+"MouseThreshold2"="46"
+"MouseTrails"="0"
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+"TcpWindowSize"=dword:0005ae4c
+"TcpNoDelay"=hex(b):7f,14,00,00,00,00,00,00
+"TCPDelAckTicks"=dword:00000005
+"Tcp1323Opts"=dword:00000003
+"TcpMaxDataRetransmissions"=dword:00000003
+"SackOpts"=dword:00000001
+"DefaultTTL"=dword:00007fff
+"Beep2"="No"
+"EnablePMTUDiscovery"=dword:00000001
+"EnablePMTUBHDetect"=dword:00000000
+
+[HKEY_USERS\.DEFAULT\Control Panel\Mouse]
+
+"Beep2"="No"
+"DoubleClickHeight2"="0,9"
+"DoubleClickSpeed2"="0,47"
+"DoubleClickWidth2"="0,5"
+"MouseHoverHeight2"=hex(-14):-25-64
+"MouseThreshold"="6"
+"MouseThreshold"="10"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\Android\Network]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\Android\Network\0]
+"InboundRules"=hex(7):74,00,63,00,70,00,3a,00,35,00,35,00,35,00,35,00,3a,00,35,\
+  00,35,00,35,00,35,00,00,00,74,00,63,00,70,00,3a,00,36,00,36,00,36,00,36,00,\
+  3a,00,36,00,36,00,36,00,36,00,00,00,74,00,63,00,70,00,3a,00,37,00,37,00,37,\
+  00,37,00,3a,00,37,00,37,00,37,00,37,00,00,00,74,00,63,00,70,00,3a,00,39,00,\
+  39,00,39,00,39,00,3a,00,39,00,39,00,39,00,39,00,00,00,75,00,64,00,70,00,3a,\
+  00,31,00,32,00,30,00,30,00,30,00,3a,00,31,00,32,00,30,00,30,00,30,00,00,00,\
+  00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\Android\Network\Redirect]
+"tcp/5555"=dword:000015b3
+"tcp/6666"=dword:00001a0a
+"tcp/7777"=dword:00001e61
+"tcp/9999"=dword:0000270f
+"udp/12000"=dword:00002ee0
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacksmsi\Guests\Android\Network]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacksmsi\Guests\Android\Network\0]
+"InboundRules"=hex(7):74,00,63,00,70,00,3a,00,35,00,35,00,35,00,35,00,3a,00,35,\
+  00,35,00,35,00,35,00,00,00,74,00,63,00,70,00,3a,00,36,00,36,00,36,00,36,00,\
+  3a,00,36,00,36,00,36,00,36,00,00,00,74,00,63,00,70,00,3a,00,37,00,37,00,37,\
+  00,37,00,3a,00,37,00,37,00,37,00,37,00,00,00,74,00,63,00,70,00,3a,00,39,00,\
+  39,00,39,00,39,00,3a,00,39,00,39,00,39,00,39,00,00,00,75,00,64,00,70,00,3a,\
+  00,31,00,32,00,30,00,30,00,30,00,3a,00,31,00,32,00,30,00,30,00,30,00,00,00,\
+  00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacksmsi\Guests\Android\Network\Redirect]
+"tcp/5555"=dword:000015b3
+"tcp/6666"=dword:00001a0a
+"tcp/7777"=dword:00001e61
+"tcp/9999"=dword:0000270f
+"udp/12000"=dword:00002ee0
+
+Windows Registry Editor Version 5.00
+
+[HKEY_USERS\S-1-5-19\Control Panel]
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility]
+"MessageDuration"=dword:00000005
+"MinimumHitRadius"=dword:00000000
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\AudioDescription]
+"Locale"=""
+"On"="0"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\Blind Access]
+"On"="0"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\HighContrast]
+"Flags"="126"
+"High Contrast Scheme"=""
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\Keyboard Preference]
+"On"="0"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\Keyboard Response]
+"AutoRepeatDelay"="1000"
+"AutoRepeatRate"="500"
+"BounceTime"="0"
+"DelayBeforeAcceptance"="1000"
+"Flags"="126"
+"Last BounceKey Setting"=dword:00000000
+"Last Valid Delay"=dword:00000000
+"Last Valid Repeat"=dword:00000000
+"Last Valid Wait"=dword:000003e8
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\MouseKeys]
+"Flags"="62"
+"MaximumSpeed"="80"
+"TimeToMaximumSpeed"="3000"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\On]
+"Locale"=dword:00000000
+"On"=dword:00000000
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\ShowSounds]
+"On"="0"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\SlateLaunch]
+"ATapp"="narrator"
+"LaunchAT"=dword:00000001
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\SoundSentry]
+"Flags"="2"
+"FSTextEffect"="0"
+"TextEffect"="0"
+"WindowsEffect"="1"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\StickyKeys]
+"Flags"="510"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\TimeOut]
+"Flags"="2"
+"TimeToWait"="300000"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Accessibility\ToggleKeys]
+"Flags"="62"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Appearance]
+
+[HKEY_USERS\S-1-5-19\Control Panel\Appearance\New Schemes]
+
+[HKEY_USERS\S-1-5-19\Control Panel\Appearance\Schemes]
+"@themeui.dll,-850"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,00,00,ff,00,00,ff,ff,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,ff,ff,ff,00,00,00,ff,00,00,ff,ff,\
+  00,00,00,00,00,00,80,00,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,00,ff,00,00,\
+  ff,ff,ff,00,00,00,00,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,00,\
+  00,00,00,c0,c0,c0,00,80,80,ff,00,00,00,ff,00,00,ff,ff,00
+"@themeui.dll,-851"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,00,ff,ff,00,00,00,ff,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,00,ff,00,00,00,ff,00,00,00,00,00,00,00,ff,ff,00,00,00,ff,\
+  00,ff,ff,ff,00,00,00,ff,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,c0,c0,c0,00,\
+  00,ff,00,00,ff,ff,ff,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,00,00,00,00,ff,\
+  ff,00,00,c0,c0,c0,00,80,80,ff,00,00,ff,ff,00,00,00,ff,00
+"@themeui.dll,-852"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,80,00,80,00,00,80,00,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,00,80,00,\
+  00,00,00,00,00,80,00,80,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,00,ff,00,00,\
+  ff,ff,ff,00,ff,ff,ff,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,00,\
+  00,00,00,c0,c0,c0,00,80,80,ff,00,80,00,80,00,00,80,00,00
+"@themeui.dll,-853"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,ff,ff,ff,00,ff,ff,ff,00,00,00,00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,\
+  ff,00,00,00,00,00,00,00,00,00,00,00,00,00,ff,ff,ff,00,80,80,80,00,c0,c0,c0,\
+  00,80,80,80,00,00,00,00,00,ff,ff,ff,00,ff,ff,ff,00,80,80,80,00,00,80,00,00,\
+  00,00,00,00,00,00,00,00,c0,c0,c0,00,00,00,00,00,c0,c0,c0,00,00,00,00,00,ff,\
+  ff,ff,00,c0,c0,c0,00,00,00,00,00,00,00,00,00,ff,ff,ff,00
+"@themeui.dll,-854"=hex:02,00,00,00,f4,01,00,00,01,00,00,00,10,00,00,00,10,00,\
+  00,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,0c,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,\
+  00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,d4,d0,c8,00,3a,6e,a5,00,0a,24,6a,00,80,80,80,00,d4,d0,c8,00,ff,ff,\
+  ff,00,00,00,00,00,00,00,00,00,00,00,00,00,ff,ff,ff,00,d4,d0,c8,00,d4,d0,c8,\
+  00,80,80,80,00,0a,24,6a,00,ff,ff,ff,00,d4,d0,c8,00,80,80,80,00,80,80,80,00,\
+  00,00,00,00,d4,d0,c8,00,ff,ff,ff,00,40,40,40,00,d4,d0,c8,00,00,00,00,00,ff,\
+  ff,e1,00,b5,b5,b5,00,00,00,80,00,a6,ca,f0,00,c0,c0,c0,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Colors]
+"ActiveBorder"="180 180 180"
+"ActiveTitle"="153 180 209"
+"AppWorkspace"="171 171 171"
+"Background"="0 0 0"
+"ButtonAlternateFace"="0 0 0"
+"ButtonDkShadow"="105 105 105"
+"ButtonFace"="240 240 240"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="227 227 227"
+"ButtonShadow"="160 160 160"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="185 209 234"
+"GradientInactiveTitle"="215 228 242"
+"GrayText"="109 109 109"
+"Hilight"="51 153 255"
+"HilightText"="255 255 255"
+"HotTrackingColor"="0 102 204"
+"InactiveBorder"="244 247 252"
+"InactiveTitle"="191 205 219"
+"InactiveTitleText"="0 0 0"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 225"
+"Menu"="240 240 240"
+"MenuBar"="240 240 240"
+"MenuHilight"="51 153 255"
+"MenuText"="0 0 0"
+"Scrollbar"="200 200 200"
+"TitleText"="0 0 0"
+"Window"="255 255 255"
+"WindowFrame"="100 100 100"
+"WindowText"="0 0 0"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Cursors]
+"AppStarting"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  00,74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,\
+  65,00,72,00,6f,00,5f,00,77,00,6f,00,72,00,6b,00,69,00,6e,00,67,00,2e,00,61,\
+  00,6e,00,69,00,00,00
+"Arrow"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,61,00,72,00,72,00,6f,00,77,00,2e,00,63,00,75,00,72,00,00,\
+  00
+"ContactVisualization"=dword:00000001
+"Crosshair"=hex(2):00,00
+"CursorBaseSize"=dword:00000020
+"GestureVisualization"=dword:0000001f
+"Hand"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,6c,00,69,00,6e,00,6b,00,2e,00,63,00,75,00,72,00,00,00
+"Help"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,68,00,65,00,6c,00,70,00,73,00,65,00,6c,00,2e,00,63,00,75,\
+  00,72,00,00,00
+"IBeam"=hex(2):00,00
+"No"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,\
+  25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,72,\
+  00,6f,00,5f,00,75,00,6e,00,61,00,76,00,61,00,69,00,6c,00,2e,00,63,00,75,00,\
+  72,00,00,00
+"NWPen"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,70,00,65,00,6e,00,2e,00,63,00,75,00,72,00,00,00
+"Scheme Source"=dword:00000002
+"SizeAll"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6d,00,6f,00,76,00,65,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNESW"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6e,00,65,00,73,00,77,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNS"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,6e,00,73,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNWSE"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6e,00,77,00,73,00,65,00,2e,00,63,00,75,00,72,00,00,00
+"SizeWE"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,65,00,77,00,2e,00,63,00,75,00,72,00,00,00
+"UpArrow"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,75,00,70,00,2e,00,63,00,75,00,72,00,00,00
+"Wait"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,62,00,75,00,73,00,79,00,2e,00,61,00,6e,00,69,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Desktop]
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretTimeout"=dword:00001388
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"CoolSwitchColumns"="7"
+"CoolSwitchRows"="3"
+"CursorBlinkRate"="530"
+"DockMoving"="1"
+"DragFromMaximize"="1"
+"DragFullWindows"="1"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000002
+"ForegroundFlashCount"=dword:00000007
+"ForegroundLockTimeout"=dword:00030d40
+"LeftOverlapChars"="3"
+"MenuShowDelay"="400"
+"MouseWheelRouting"=dword:00000002
+"PaintDesktopVersion"=dword:00000000
+"Pattern"=dword:00000000
+"RightOverlapChars"="3"
+"ScreenSaveActive"="1"
+"SnapSizing"="1"
+"TileWallpaper"="0"
+"WallPaper"="C:\\Windows\\Web\\Wallpaper\\Windows\\img0.jpg"
+"WallpaperOriginX"=dword:00000000
+"WallpaperOriginY"=dword:00000000
+"WallpaperStyle"="10"
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+"WindowArrangementActive"="1"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Desktop\Colors]
+"ActiveBorder"="212 208 200"
+"ActiveTitle"="10 36 106"
+"AppWorkSpace"="128 128 128"
+"ButtonAlternateFace"="181 181 181"
+"ButtonDkShadow"="64 64 64"
+"ButtonFace"="212 208 200"
+"ButtonHiLight"="255 255 255"
+"ButtonLight"="212 208 200"
+"ButtonShadow"="128 128 128"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="166 202 240"
+"GradientInactiveTitle"="192 192 192"
+"GrayText"="128 128 128"
+"Hilight"="10 36 106"
+"HilightText"="255 255 255"
+"HotTrackingColor"="0 0 128"
+"InactiveBorder"="212 208 200"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="212 208 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 255"
+"Menu"="212 208 200"
+"MenuText"="0 0 0"
+"Scrollbar"="212 208 200"
+"TitleText"="255 255 255"
+"Window"="255 255 255"
+"WindowFrame"="0 0 0"
+"WindowText"="0 0 0"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Desktop\WindowMetrics]
+"BorderWidth"="#USR:Control Panel\\Desktop\\WindowMetrics"
+"CaptionFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,00,\
+  00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"CaptionHeight"="-270"
+"CaptionWidth"="-270"
+"IconFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"IconTitleWrap"="1"
+"MenuFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"MenuHeight"="-270"
+"MenuWidth"="-270"
+"MessageFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"ScrollHeight"="-240"
+"ScrollWidth"="-240"
+"Shell Icon Size"="32"
+"SmCaptionFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,\
+  00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SmCaptionHeight"="-180"
+"SmCaptionWidth"="-180"
+"StatusFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method]
+"Show Status"="1"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method\Hot Keys]
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method\Hot Keys\00000010]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method\Hot Keys\00000011]
+"Key Modifiers"=hex:04,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method\Hot Keys\00000012]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:be,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method\Hot Keys\00000070]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method\Hot Keys\00000071]
+"Key Modifiers"=hex:04,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method\Hot Keys\00000072]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:bc,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method\Hot Keys\00000104]
+"Key Modifiers"=hex:06,c0,00,00
+"Target IME"=hex:11,04,01,e0
+"Virtual Key"=hex:30,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method\Hot Keys\00000200]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:47,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method\Hot Keys\00000201]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:4b,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method\Hot Keys\00000202]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:4c,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Input Method\Hot Keys\00000203]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:56,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\International]
+"Locale"="0000042A"
+"LocaleName"="vi-VN"
+"s1159"="SA"
+"s2359"="CH"
+"sCurrency"="₫"
+"sDate"="/"
+"sDecimal"=","
+"sGrouping"="3;0"
+"sLanguage"="VIT"
+"sList"=","
+"sLongDate"="dd MMMM yyyy"
+"sMonDecimalSep"=","
+"sMonGrouping"="3;0"
+"sMonThousandSep"="."
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="dd/MM/yyyy"
+"sThousand"="."
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sShortTime"="h:mm tt"
+"sYearMonth"="MMMM yyyy"
+"iCalendarType"="1"
+"iCountry"="84"
+"iCurrDigits"="2"
+"iCurrency"="3"
+"iDate"="1"
+"iDigits"="2"
+"NumShape"="1"
+"iFirstDayOfWeek"="0"
+"iFirstWeekOfYear"="0"
+"iLZero"="1"
+"iMeasure"="0"
+"iNegCurr"="8"
+"iNegNumber"="1"
+"iPaperSize"="9"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+
+[HKEY_USERS\S-1-5-19\Control Panel\International\Geo]
+"Nation"="251"
+"Name"="VN"
+
+[HKEY_USERS\S-1-5-19\Control Panel\International\User Profile]
+"Languages"=hex(7):76,00,69,00,00,00,65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+
+[HKEY_USERS\S-1-5-19\Control Panel\International\User Profile\en-US]
+"0409:00000409"=dword:00000001
+
+[HKEY_USERS\S-1-5-19\Control Panel\International\User Profile\vi]
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{5FB02EC5-0A77-4684-B4FA-DEF8A2195628}"=dword:00000001
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{591AE943-56BE-48F6-8966-06B43915CC5A}"=dword:00000002
+"042A:0000042A"=dword:00000003
+
+[HKEY_USERS\S-1-5-19\Control Panel\International\User Profile System Backup]
+"Languages"=hex(7):76,00,69,00,00,00,65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+
+[HKEY_USERS\S-1-5-19\Control Panel\International\User Profile System Backup\en-US]
+"0409:00000409"=dword:00000001
+
+[HKEY_USERS\S-1-5-19\Control Panel\International\User Profile System Backup\vi]
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{5FB02EC5-0A77-4684-B4FA-DEF8A2195628}"=dword:00000001
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{591AE943-56BE-48F6-8966-06B43915CC5A}"=dword:00000002
+"042A:0000042A"=dword:00000003
+
+[HKEY_USERS\S-1-5-19\Control Panel\Keyboard]
+"InitialKeyboardIndicators"="2147483648"
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Mouse]
+"ActiveWindowTracking"=dword:00000000
+"Beep"="No"
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"ExtendedSounds"="No"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"MouseTrails"="0"
+"SmoothMouseXCurve"=hex:00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,00,00,40,\
+  01,00,00,00,00,00,29,dc,03,00,00,00,00,00,00,00,28,00,00,00,00,00
+"SmoothMouseYCurve"=hex:00,00,00,00,00,00,00,00,fd,11,01,00,00,00,00,00,00,24,\
+  04,00,00,00,00,00,00,fc,12,00,00,00,00,00,00,c0,bb,01,00,00,00,00
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[HKEY_USERS\S-1-5-19\Control Panel\PowerCfg]
+"CurrentPowerPolicy"="0"
+
+[HKEY_USERS\S-1-5-19\Control Panel\PowerCfg\GlobalPowerPolicy]
+"Policies"=hex:01,00,00,00,00,00,00,00,03,00,00,00,10,00,00,00,00,00,00,00,03,\
+  00,00,00,10,00,00,00,02,00,00,00,03,00,00,00,00,00,00,00,02,00,00,00,03,00,\
+  00,00,00,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,01,00,00,\
+  00,00,00,00,00,01,00,00,00,03,00,00,00,03,00,00,00,00,00,00,c0,01,00,00,00,\
+  05,00,00,00,01,00,00,00,0a,00,00,00,00,00,00,00,03,00,00,00,01,00,00,00,01,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,16,00,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\PowerCfg\PowerPolicies]
+
+[HKEY_USERS\S-1-5-19\Control Panel\PowerCfg\PowerPolicies\0]
+"Description"="This scheme is suited to most home or desktop computers that are left plugged in all the time."
+"Name"="Home/Office Desk"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,2c,01,00,00,32,32,00,03,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,b0,04,00,00,2c,01,00,00,00,00,00,00,58,02,00,\
+  00,01,01,64,50,64,64,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\PowerCfg\PowerPolicies\1]
+"Description"="This scheme is designed for extended battery life for portable computers on the road."
+"Name"="Portable/Laptop"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,01,\
+  00,00,00,00,00,00,00,b0,04,00,00,2c,01,00,00,32,32,03,03,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,84,03,00,00,2c,01,00,00,08,07,00,00,2c,01,00,\
+  00,01,01,64,50,64,64,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\PowerCfg\PowerPolicies\2]
+"Description"="This scheme keeps the monitor on for doing presentations."
+"Name"="Presentation"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,01,\
+  00,00,00,00,00,00,00,00,00,00,00,84,03,00,00,32,32,03,02,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,2c,01,00,\
+  00,01,01,50,50,64,64,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\PowerCfg\PowerPolicies\3]
+"Description"="This scheme keeps the computer running so that it can be accessed from the network.  Use this scheme if you do not have network wakeup hardware."
+"Name"="Always On"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,32,32,00,00,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,b0,04,00,00,84,03,00,00,00,00,00,00,08,07,00,\
+  00,00,01,64,64,64,64,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\PowerCfg\PowerPolicies\4]
+"Description"="This scheme keeps the computer on and optimizes it for high performance."
+"Name"="Minimal Power Management"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,2c,01,00,00,32,32,03,03,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,84,03,00,00,2c,01,00,00,00,00,00,00,84,03,00,\
+  00,00,01,64,64,64,64,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\PowerCfg\PowerPolicies\5]
+"Description"="This scheme is extremely aggressive for saving power."
+"Name"="Max Battery"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,05,\
+  00,00,00,00,00,00,00,b0,04,00,00,78,00,00,00,32,32,03,02,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,84,03,00,00,3c,00,00,00,00,00,00,00,b4,00,00,\
+  00,01,01,64,32,64,64,00,00
+
+[HKEY_USERS\S-1-5-19\Control Panel\Quick Actions]
+
+[HKEY_USERS\S-1-5-19\Control Panel\Quick Actions\Pinned]
+
+[HKEY_USERS\S-1-5-19\Control Panel\Sound]
+"Beep"="yes"
+"ExtendedSounds"="yes"
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"ActiveWindowTracking"=dword:00000000
+"Beep"="No"
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"ExtendedSounds"="No"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"MouseTrails"="0"
+"SmoothMouseXCurve"=hex:00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,00,00,40,\
+  01,00,00,00,00,00,29,dc,03,00,00,00,00,00,00,00,28,00,00,00,00,00
+"SmoothMouseYCurve"=hex:00,00,00,00,00,00,00,00,fd,11,01,00,00,00,00,00,00,24,\
+  04,00,00,00,00,00,00,fc,12,00,00,00,00,00,00,c0,bb,01,00,00,00,00
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+Windows Registry Editor Version 5.00
+
+
+[HKEY_USERS\.DEFAULT\Control Panel\Mouse]
+"HitBoxX"=hex(7):35,00,30,00,2e,00,30,00,30,00,00,00,35,00,30,00,2e,00,30,00,30,\
+  00,00,00,34,00,39,00,2e,00,35,00,37,00,38,00,38,00,35,00,37,00,34,00,32,00,\
+  31,00,38,00,37,00,35,00,30,00,30,00,00,00,35,00,30,00,2e,00,33,00,31,00,34,\
+  00,33,00,33,00,31,00,30,00,35,00,34,00,36,00,38,00,37,00,35,00,30,00,30,00,\
+  00,00,00,00
+"HitBoxY"=hex(7):34,00,38,00,2e,00,34,00,31,00,36,00,31,00,33,00,37,00,36,00,39,\
+  00,35,00,33,00,31,00,32,00,35,00,30,00,30,00,00,00,34,00,37,00,2e,00,31,00,\
+  31,00,33,00,30,00,33,00,37,00,31,00,30,00,39,00,33,00,37,00,35,00,30,00,30,\
+  00,00,00,34,00,37,00,2e,00,36,00,37,00,31,00,35,00,30,00,38,00,37,00,38,00,\
+  39,00,30,00,36,00,32,00,35,00,30,00,30,00,00,00,34,00,37,00,2e,00,34,00,38,\
+  00,35,00,33,00,35,00,31,00,35,00,36,00,32,00,35,00,30,00,30,00,00,00,00,00
+
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+
+"HitBoxX"=hex(7):35,00,30,00,2e,00,30,00,30,00,00,00,35,00,30,00,2e,00,30,00,30,\
+  00,00,00,34,00,39,00,2e,00,35,00,37,00,38,00,38,00,35,00,37,00,34,00,32,00,\
+  31,00,38,00,37,00,35,00,30,00,30,00,00,00,35,00,30,00,2e,00,33,00,31,00,34,\
+  00,33,00,33,00,31,00,30,00,35,00,34,00,36,00,38,00,37,00,35,00,30,00,30,00,\
+  00,00,00,00
+"HitBoxY"=hex(7):34,00,38,00,2e,00,34,00,31,00,36,00,31,00,33,00,37,00,36,00,39,\
+  00,35,00,33,00,31,00,32,00,35,00,30,00,30,00,00,00,34,00,37,00,2e,00,31,00,\
+  31,00,33,00,30,00,33,00,37,00,31,00,30,00,39,00,33,00,37,00,35,00,30,00,30,\
+  00,00,00,34,00,37,00,2e,00,36,00,37,00,31,00,35,00,30,00,38,00,37,00,38,00,\
+  39,00,30,00,36,00,32,00,35,00,30,00,30,00,00,00,34,00,37,00,2e,00,34,00,38,\
+  00,35,00,33,00,35,00,31,00,35,00,36,00,32,00,35,00,30,00,30,00,00,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Mouse]
+"HitBoxX"=hex(7):35,00,30,00,2e,00,30,00,30,00,00,00,35,00,30,00,2e,00,30,00,30,\
+  00,00,00,34,00,39,00,2e,00,35,00,37,00,38,00,38,00,35,00,37,00,34,00,32,00,\
+  31,00,38,00,37,00,35,00,30,00,30,00,00,00,35,00,30,00,2e,00,33,00,31,00,34,\
+  00,33,00,33,00,31,00,30,00,35,00,34,00,36,00,38,00,37,00,35,00,30,00,30,00,\
+  00,00,00,00
+"HitBoxY"=hex(7):34,00,38,00,2e,00,34,00,31,00,36,00,31,00,33,00,37,00,36,00,39,\
+  00,35,00,33,00,31,00,32,00,35,00,30,00,30,00,00,00,34,00,37,00,2e,00,31,00,\
+  31,00,33,00,30,00,33,00,37,00,31,00,30,00,39,00,33,00,37,00,35,00,30,00,30,\
+  00,00,00,34,00,37,00,2e,00,36,00,37,00,31,00,35,00,30,00,38,00,37,00,38,00,\
+  39,00,30,00,36,00,32,00,35,00,30,00,30,00,00,00,34,00,37,00,2e,00,34,00,38,\
+  00,35,00,33,00,35,00,31,00,35,00,36,00,32,00,35,00,30,00,30,00,00,00,00,00
+
+
+[HKEY_USERS\S-1-5-19\Control Panel\Mouse]
+"HitBoxX"=hex(7):35,00,30,00,2e,00,30,00,30,00,00,00,35,00,30,00,2e,00,30,00,30,\
+  00,00,00,34,00,39,00,2e,00,35,00,37,00,38,00,38,00,35,00,37,00,34,00,32,00,\
+  31,00,38,00,37,00,35,00,30,00,30,00,00,00,35,00,30,00,2e,00,33,00,31,00,34,\
+  00,33,00,33,00,31,00,30,00,35,00,34,00,36,00,38,00,37,00,35,00,30,00,30,00,\
+  00,00,00,00
+"HitBoxY"=hex(7):34,00,38,00,2e,00,34,00,31,00,36,00,31,00,33,00,37,00,36,00,39,\
+  00,35,00,33,00,31,00,32,00,35,00,30,00,30,00,00,00,34,00,37,00,2e,00,31,00,\
+  31,00,33,00,30,00,33,00,37,00,31,00,30,00,39,00,33,00,37,00,35,00,30,00,30,\
+  00,00,00,34,00,37,00,2e,00,36,00,37,00,31,00,35,00,30,00,38,00,37,00,38,00,\
+  39,00,30,00,36,00,32,00,35,00,30,00,30,00,00,00,34,00,37,00,2e,00,34,00,38,\
+  00,35,00,33,00,35,00,31,00,35,00,36,00,32,00,35,00,30,00,30,00,00,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Mouse]
+"HitBoxX"=hex(7):35,00,30,00,2e,00,30,00,30,00,00,00,35,00,30,00,2e,00,30,00,30,\
+  00,00,00,34,00,39,00,2e,00,35,00,37,00,38,00,38,00,35,00,37,00,34,00,32,00,\
+  31,00,38,00,37,00,35,00,30,00,30,00,00,00,35,00,30,00,2e,00,33,00,31,00,34,\
+  00,33,00,33,00,31,00,30,00,35,00,34,00,36,00,38,00,37,00,35,00,30,00,30,00,\
+  00,00,00,00
+"HitBoxY"=hex(7):34,00,38,00,2e,00,34,00,31,00,36,00,31,00,33,00,37,00,36,00,39,\
+  00,35,00,33,00,31,00,32,00,35,00,30,00,30,00,00,00,34,00,37,00,2e,00,31,00,\
+  31,00,33,00,30,00,33,00,37,00,31,00,30,00,39,00,33,00,37,00,35,00,30,00,30,\
+  00,00,00,34,00,37,00,2e,00,36,00,37,00,31,00,35,00,30,00,38,00,37,00,38,00,\
+  39,00,30,00,36,00,32,00,35,00,30,00,30,00,00,00,34,00,37,00,2e,00,34,00,38,\
+  00,35,00,33,00,35,00,31,00,35,00,36,00,32,00,35,00,30,00,30,00,00,00,00,00
+
+Windows Registry Editor Version 5.00
+
+[HKEY_USERS\S-1-5-20\Control Panel]
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility]
+"MessageDuration"=dword:00000005
+"MinimumHitRadius"=dword:00000000
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\AudioDescription]
+"Locale"=""
+"On"="0"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\Blind Access]
+"On"="0"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\HighContrast]
+"Flags"="126"
+"High Contrast Scheme"=""
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\Keyboard Preference]
+"On"="0"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\Keyboard Response]
+"AutoRepeatDelay"="1000"
+"AutoRepeatRate"="500"
+"BounceTime"="0"
+"DelayBeforeAcceptance"="1000"
+"Flags"="126"
+"Last BounceKey Setting"=dword:00000000
+"Last Valid Delay"=dword:00000000
+"Last Valid Repeat"=dword:00000000
+"Last Valid Wait"=dword:000003e8
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\MouseKeys]
+"Flags"="62"
+"MaximumSpeed"="80"
+"TimeToMaximumSpeed"="3000"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\On]
+"Locale"=dword:00000000
+"On"=dword:00000000
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\ShowSounds]
+"On"="0"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\SlateLaunch]
+"ATapp"="narrator"
+"LaunchAT"=dword:00000001
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\SoundSentry]
+"Flags"="2"
+"FSTextEffect"="0"
+"TextEffect"="0"
+"WindowsEffect"="1"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\StickyKeys]
+"Flags"="510"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\TimeOut]
+"Flags"="2"
+"TimeToWait"="300000"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Accessibility\ToggleKeys]
+"Flags"="62"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Appearance]
+
+[HKEY_USERS\S-1-5-20\Control Panel\Appearance\New Schemes]
+
+[HKEY_USERS\S-1-5-20\Control Panel\Appearance\Schemes]
+"@themeui.dll,-850"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,00,00,ff,00,00,ff,ff,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,ff,ff,ff,00,00,00,ff,00,00,ff,ff,\
+  00,00,00,00,00,00,80,00,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,00,ff,00,00,\
+  ff,ff,ff,00,00,00,00,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,00,\
+  00,00,00,c0,c0,c0,00,80,80,ff,00,00,00,ff,00,00,ff,ff,00
+"@themeui.dll,-851"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,00,ff,ff,00,00,00,ff,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,00,ff,00,00,00,ff,00,00,00,00,00,00,00,ff,ff,00,00,00,ff,\
+  00,ff,ff,ff,00,00,00,ff,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,c0,c0,c0,00,\
+  00,ff,00,00,ff,ff,ff,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,00,00,00,00,ff,\
+  ff,00,00,c0,c0,c0,00,80,80,ff,00,00,ff,ff,00,00,00,ff,00
+"@themeui.dll,-852"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,80,00,80,00,00,80,00,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,00,80,00,\
+  00,00,00,00,00,80,00,80,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,00,ff,00,00,\
+  ff,ff,ff,00,ff,ff,ff,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,00,\
+  00,00,00,c0,c0,c0,00,80,80,ff,00,80,00,80,00,00,80,00,00
+"@themeui.dll,-853"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,ff,ff,ff,00,ff,ff,ff,00,00,00,00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,\
+  ff,00,00,00,00,00,00,00,00,00,00,00,00,00,ff,ff,ff,00,80,80,80,00,c0,c0,c0,\
+  00,80,80,80,00,00,00,00,00,ff,ff,ff,00,ff,ff,ff,00,80,80,80,00,00,80,00,00,\
+  00,00,00,00,00,00,00,00,c0,c0,c0,00,00,00,00,00,c0,c0,c0,00,00,00,00,00,ff,\
+  ff,ff,00,c0,c0,c0,00,00,00,00,00,00,00,00,00,ff,ff,ff,00
+"@themeui.dll,-854"=hex:02,00,00,00,f4,01,00,00,01,00,00,00,10,00,00,00,10,00,\
+  00,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,0c,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,\
+  00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,d4,d0,c8,00,3a,6e,a5,00,0a,24,6a,00,80,80,80,00,d4,d0,c8,00,ff,ff,\
+  ff,00,00,00,00,00,00,00,00,00,00,00,00,00,ff,ff,ff,00,d4,d0,c8,00,d4,d0,c8,\
+  00,80,80,80,00,0a,24,6a,00,ff,ff,ff,00,d4,d0,c8,00,80,80,80,00,80,80,80,00,\
+  00,00,00,00,d4,d0,c8,00,ff,ff,ff,00,40,40,40,00,d4,d0,c8,00,00,00,00,00,ff,\
+  ff,e1,00,b5,b5,b5,00,00,00,80,00,a6,ca,f0,00,c0,c0,c0,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Colors]
+"ActiveBorder"="180 180 180"
+"ActiveTitle"="153 180 209"
+"AppWorkspace"="171 171 171"
+"Background"="0 0 0"
+"ButtonAlternateFace"="0 0 0"
+"ButtonDkShadow"="105 105 105"
+"ButtonFace"="240 240 240"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="227 227 227"
+"ButtonShadow"="160 160 160"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="185 209 234"
+"GradientInactiveTitle"="215 228 242"
+"GrayText"="109 109 109"
+"Hilight"="51 153 255"
+"HilightText"="255 255 255"
+"HotTrackingColor"="0 102 204"
+"InactiveBorder"="244 247 252"
+"InactiveTitle"="191 205 219"
+"InactiveTitleText"="0 0 0"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 225"
+"Menu"="240 240 240"
+"MenuBar"="240 240 240"
+"MenuHilight"="51 153 255"
+"MenuText"="0 0 0"
+"Scrollbar"="200 200 200"
+"TitleText"="0 0 0"
+"Window"="255 255 255"
+"WindowFrame"="100 100 100"
+"WindowText"="0 0 0"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Cursors]
+"AppStarting"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  00,74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,\
+  65,00,72,00,6f,00,5f,00,77,00,6f,00,72,00,6b,00,69,00,6e,00,67,00,2e,00,61,\
+  00,6e,00,69,00,00,00
+"Arrow"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,61,00,72,00,72,00,6f,00,77,00,2e,00,63,00,75,00,72,00,00,\
+  00
+"ContactVisualization"=dword:00000001
+"Crosshair"=hex(2):00,00
+"CursorBaseSize"=dword:00000020
+"GestureVisualization"=dword:0000001f
+"Hand"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,6c,00,69,00,6e,00,6b,00,2e,00,63,00,75,00,72,00,00,00
+"Help"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,68,00,65,00,6c,00,70,00,73,00,65,00,6c,00,2e,00,63,00,75,\
+  00,72,00,00,00
+"IBeam"=hex(2):00,00
+"No"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,\
+  25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,72,\
+  00,6f,00,5f,00,75,00,6e,00,61,00,76,00,61,00,69,00,6c,00,2e,00,63,00,75,00,\
+  72,00,00,00
+"NWPen"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,70,00,65,00,6e,00,2e,00,63,00,75,00,72,00,00,00
+"Scheme Source"=dword:00000002
+"SizeAll"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6d,00,6f,00,76,00,65,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNESW"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6e,00,65,00,73,00,77,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNS"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,6e,00,73,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNWSE"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6e,00,77,00,73,00,65,00,2e,00,63,00,75,00,72,00,00,00
+"SizeWE"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,65,00,77,00,2e,00,63,00,75,00,72,00,00,00
+"UpArrow"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,75,00,70,00,2e,00,63,00,75,00,72,00,00,00
+"Wait"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,62,00,75,00,73,00,79,00,2e,00,61,00,6e,00,69,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Desktop]
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretTimeout"=dword:00001388
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"CoolSwitchColumns"="7"
+"CoolSwitchRows"="3"
+"CursorBlinkRate"="530"
+"DockMoving"="1"
+"DragFromMaximize"="1"
+"DragFullWindows"="1"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000002
+"ForegroundFlashCount"=dword:00000007
+"ForegroundLockTimeout"=dword:00030d40
+"LeftOverlapChars"="3"
+"MenuShowDelay"="400"
+"MouseWheelRouting"=dword:00000002
+"PaintDesktopVersion"=dword:00000000
+"Pattern"=dword:00000000
+"RightOverlapChars"="3"
+"ScreenSaveActive"="1"
+"SnapSizing"="1"
+"TileWallpaper"="0"
+"WallPaper"="C:\\Windows\\Web\\Wallpaper\\Windows\\img0.jpg"
+"WallpaperOriginX"=dword:00000000
+"WallpaperOriginY"=dword:00000000
+"WallpaperStyle"="10"
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+"WindowArrangementActive"="1"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Desktop\Colors]
+"ActiveBorder"="212 208 200"
+"ActiveTitle"="10 36 106"
+"AppWorkSpace"="128 128 128"
+"ButtonAlternateFace"="181 181 181"
+"ButtonDkShadow"="64 64 64"
+"ButtonFace"="212 208 200"
+"ButtonHiLight"="255 255 255"
+"ButtonLight"="212 208 200"
+"ButtonShadow"="128 128 128"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="166 202 240"
+"GradientInactiveTitle"="192 192 192"
+"GrayText"="128 128 128"
+"Hilight"="10 36 106"
+"HilightText"="255 255 255"
+"HotTrackingColor"="0 0 128"
+"InactiveBorder"="212 208 200"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="212 208 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 255"
+"Menu"="212 208 200"
+"MenuText"="0 0 0"
+"Scrollbar"="212 208 200"
+"TitleText"="255 255 255"
+"Window"="255 255 255"
+"WindowFrame"="0 0 0"
+"WindowText"="0 0 0"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Desktop\WindowMetrics]
+"BorderWidth"="#USR:Control Panel\\Desktop\\WindowMetrics"
+"CaptionFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,00,\
+  00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"CaptionHeight"="-270"
+"CaptionWidth"="-270"
+"IconFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"IconTitleWrap"="1"
+"MenuFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"MenuHeight"="-270"
+"MenuWidth"="-270"
+"MessageFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"ScrollHeight"="-240"
+"ScrollWidth"="-240"
+"Shell Icon Size"="32"
+"SmCaptionFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,bc,02,00,\
+  00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SmCaptionHeight"="-180"
+"SmCaptionWidth"="-180"
+"StatusFont"=hex:f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method]
+"Show Status"="1"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method\Hot Keys]
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method\Hot Keys\00000010]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method\Hot Keys\00000011]
+"Key Modifiers"=hex:04,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method\Hot Keys\00000012]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:be,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method\Hot Keys\00000070]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method\Hot Keys\00000071]
+"Key Modifiers"=hex:04,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method\Hot Keys\00000072]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:bc,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method\Hot Keys\00000104]
+"Key Modifiers"=hex:06,c0,00,00
+"Target IME"=hex:11,04,01,e0
+"Virtual Key"=hex:30,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method\Hot Keys\00000200]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:47,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method\Hot Keys\00000201]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:4b,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method\Hot Keys\00000202]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:4c,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Input Method\Hot Keys\00000203]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:56,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\International]
+"Locale"="0000042A"
+"LocaleName"="vi-VN"
+"s1159"="SA"
+"s2359"="CH"
+"sCurrency"="₫"
+"sDate"="/"
+"sDecimal"=","
+"sGrouping"="3;0"
+"sLanguage"="VIT"
+"sList"=","
+"sLongDate"="dd MMMM yyyy"
+"sMonDecimalSep"=","
+"sMonGrouping"="3;0"
+"sMonThousandSep"="."
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="dd/MM/yyyy"
+"sThousand"="."
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sShortTime"="h:mm tt"
+"sYearMonth"="MMMM yyyy"
+"iCalendarType"="1"
+"iCountry"="84"
+"iCurrDigits"="2"
+"iCurrency"="3"
+"iDate"="1"
+"iDigits"="2"
+"NumShape"="1"
+"iFirstDayOfWeek"="0"
+"iFirstWeekOfYear"="0"
+"iLZero"="1"
+"iMeasure"="0"
+"iNegCurr"="8"
+"iNegNumber"="1"
+"iPaperSize"="9"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+
+[HKEY_USERS\S-1-5-20\Control Panel\International\Geo]
+"Nation"="251"
+"Name"="VN"
+
+[HKEY_USERS\S-1-5-20\Control Panel\International\User Profile]
+"Languages"=hex(7):76,00,69,00,00,00,65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+
+[HKEY_USERS\S-1-5-20\Control Panel\International\User Profile\en-US]
+"0409:00000409"=dword:00000001
+
+[HKEY_USERS\S-1-5-20\Control Panel\International\User Profile\vi]
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{5FB02EC5-0A77-4684-B4FA-DEF8A2195628}"=dword:00000001
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{591AE943-56BE-48F6-8966-06B43915CC5A}"=dword:00000002
+"042A:0000042A"=dword:00000003
+
+[HKEY_USERS\S-1-5-20\Control Panel\International\User Profile System Backup]
+"Languages"=hex(7):76,00,69,00,00,00,65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+
+[HKEY_USERS\S-1-5-20\Control Panel\International\User Profile System Backup\en-US]
+"0409:00000409"=dword:00000001
+
+[HKEY_USERS\S-1-5-20\Control Panel\International\User Profile System Backup\vi]
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{5FB02EC5-0A77-4684-B4FA-DEF8A2195628}"=dword:00000001
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{591AE943-56BE-48F6-8966-06B43915CC5A}"=dword:00000002
+"042A:0000042A"=dword:00000003
+
+[HKEY_USERS\S-1-5-20\Control Panel\Keyboard]
+"InitialKeyboardIndicators"="2147483648"
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Mouse]
+"ActiveWindowTracking"=dword:00000000
+"Beep"="No"
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"ExtendedSounds"="No"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"MouseTrails"="0"
+"SmoothMouseXCurve"=hex:00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,00,00,40,\
+  01,00,00,00,00,00,29,dc,03,00,00,00,00,00,00,00,28,00,00,00,00,00
+"SmoothMouseYCurve"=hex:00,00,00,00,00,00,00,00,fd,11,01,00,00,00,00,00,00,24,\
+  04,00,00,00,00,00,00,fc,12,00,00,00,00,00,00,c0,bb,01,00,00,00,00
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[HKEY_USERS\S-1-5-20\Control Panel\PowerCfg]
+"CurrentPowerPolicy"="0"
+
+[HKEY_USERS\S-1-5-20\Control Panel\PowerCfg\GlobalPowerPolicy]
+"Policies"=hex:01,00,00,00,00,00,00,00,03,00,00,00,10,00,00,00,00,00,00,00,03,\
+  00,00,00,10,00,00,00,02,00,00,00,03,00,00,00,00,00,00,00,02,00,00,00,03,00,\
+  00,00,00,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,01,00,00,\
+  00,00,00,00,00,01,00,00,00,03,00,00,00,03,00,00,00,00,00,00,c0,01,00,00,00,\
+  05,00,00,00,01,00,00,00,0a,00,00,00,00,00,00,00,03,00,00,00,01,00,00,00,01,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,16,00,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\PowerCfg\PowerPolicies]
+
+[HKEY_USERS\S-1-5-20\Control Panel\PowerCfg\PowerPolicies\0]
+"Description"="This scheme is suited to most home or desktop computers that are left plugged in all the time."
+"Name"="Home/Office Desk"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,2c,01,00,00,32,32,00,03,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,b0,04,00,00,2c,01,00,00,00,00,00,00,58,02,00,\
+  00,01,01,64,50,64,64,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\PowerCfg\PowerPolicies\1]
+"Description"="This scheme is designed for extended battery life for portable computers on the road."
+"Name"="Portable/Laptop"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,01,\
+  00,00,00,00,00,00,00,b0,04,00,00,2c,01,00,00,32,32,03,03,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,84,03,00,00,2c,01,00,00,08,07,00,00,2c,01,00,\
+  00,01,01,64,50,64,64,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\PowerCfg\PowerPolicies\2]
+"Description"="This scheme keeps the monitor on for doing presentations."
+"Name"="Presentation"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,01,\
+  00,00,00,00,00,00,00,00,00,00,00,84,03,00,00,32,32,03,02,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,2c,01,00,\
+  00,01,01,50,50,64,64,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\PowerCfg\PowerPolicies\3]
+"Description"="This scheme keeps the computer running so that it can be accessed from the network.  Use this scheme if you do not have network wakeup hardware."
+"Name"="Always On"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,32,32,00,00,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,b0,04,00,00,84,03,00,00,00,00,00,00,08,07,00,\
+  00,00,01,64,64,64,64,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\PowerCfg\PowerPolicies\4]
+"Description"="This scheme keeps the computer on and optimizes it for high performance."
+"Name"="Minimal Power Management"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,2c,01,00,00,32,32,03,03,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,84,03,00,00,2c,01,00,00,00,00,00,00,84,03,00,\
+  00,00,01,64,64,64,64,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\PowerCfg\PowerPolicies\5]
+"Description"="This scheme is extremely aggressive for saving power."
+"Name"="Max Battery"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,05,\
+  00,00,00,00,00,00,00,b0,04,00,00,78,00,00,00,32,32,03,02,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,84,03,00,00,3c,00,00,00,00,00,00,00,b4,00,00,\
+  00,01,01,64,32,64,64,00,00
+
+[HKEY_USERS\S-1-5-20\Control Panel\Quick Actions]
+
+[HKEY_USERS\S-1-5-20\Control Panel\Quick Actions\Pinned]
+
+[HKEY_USERS\S-1-5-20\Control Panel\Sound]
+"Beep"="yes"
+"ExtendedSounds"="yes"
+
+Windows Registry Editor Version 5.00
+
+[HKEY_USERS\S-1-5-18\Control Panel]
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility]
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\Blind Access]
+"On"="0"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\HighContrast]
+"Flags"="126"
+"High Contrast Scheme"=""
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\Keyboard Preference]
+"On"="0"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\Keyboard Response]
+"AutoRepeatDelay"="1000"
+"AutoRepeatRate"="500"
+"BounceTime"="0"
+"DelayBeforeAcceptance"="1000"
+"Flags"="126"
+"Last BounceKey Setting"=dword:00000000
+"Last Valid Delay"=dword:00000000
+"Last Valid Repeat"=dword:00000000
+"Last Valid Wait"=dword:000003e8
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\MouseKeys]
+"Flags"="62"
+"MaximumSpeed"="80"
+"TimeToMaximumSpeed"="3000"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\ShowSounds]
+"On"="0"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\SlateLaunch]
+"ATapp"="narrator"
+"LaunchAT"=dword:00000001
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\SoundSentry]
+"Flags"="2"
+"FSTextEffect"="0"
+"TextEffect"="0"
+"WindowsEffect"="1"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\StickyKeys]
+"Flags"="510"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\TimeOut]
+"Flags"="2"
+"TimeToWait"="300000"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Accessibility\ToggleKeys]
+"Flags"="62"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Appearance]
+
+[HKEY_USERS\S-1-5-18\Control Panel\Appearance\Schemes]
+"@themeui.dll,-850"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,00,00,ff,00,00,ff,ff,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,ff,ff,ff,00,00,00,ff,00,00,ff,ff,\
+  00,00,00,00,00,00,80,00,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,00,ff,00,00,\
+  ff,ff,ff,00,00,00,00,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,00,\
+  00,00,00,c0,c0,c0,00,80,80,ff,00,00,00,ff,00,00,ff,ff,00
+"@themeui.dll,-851"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,00,ff,ff,00,00,00,ff,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,00,ff,00,00,00,ff,00,00,00,00,00,00,00,ff,ff,00,00,00,ff,\
+  00,ff,ff,ff,00,00,00,ff,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,c0,c0,c0,00,\
+  00,ff,00,00,ff,ff,ff,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,00,00,00,00,ff,\
+  ff,00,00,c0,c0,c0,00,80,80,ff,00,00,ff,ff,00,00,00,ff,00
+"@themeui.dll,-852"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,80,00,80,00,00,80,00,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,00,80,00,\
+  00,00,00,00,00,80,00,80,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,00,ff,00,00,\
+  ff,ff,ff,00,ff,ff,ff,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,00,\
+  00,00,00,c0,c0,c0,00,80,80,ff,00,80,00,80,00,00,80,00,00
+"@themeui.dll,-853"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,ff,ff,ff,00,ff,ff,ff,00,00,00,00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,\
+  ff,00,00,00,00,00,00,00,00,00,00,00,00,00,ff,ff,ff,00,80,80,80,00,c0,c0,c0,\
+  00,80,80,80,00,00,00,00,00,ff,ff,ff,00,ff,ff,ff,00,80,80,80,00,00,80,00,00,\
+  00,00,00,00,00,00,00,00,c0,c0,c0,00,00,00,00,00,c0,c0,c0,00,00,00,00,00,ff,\
+  ff,ff,00,c0,c0,c0,00,00,00,00,00,00,00,00,00,ff,ff,ff,00
+"@themeui.dll,-854"=hex:02,00,00,00,f4,01,00,00,01,00,00,00,10,00,00,00,10,00,\
+  00,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,0c,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,\
+  00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,d4,d0,c8,00,3a,6e,a5,00,0a,24,6a,00,80,80,80,00,d4,d0,c8,00,ff,ff,\
+  ff,00,00,00,00,00,00,00,00,00,00,00,00,00,ff,ff,ff,00,d4,d0,c8,00,d4,d0,c8,\
+  00,80,80,80,00,0a,24,6a,00,ff,ff,ff,00,d4,d0,c8,00,80,80,80,00,80,80,80,00,\
+  00,00,00,00,d4,d0,c8,00,ff,ff,ff,00,40,40,40,00,d4,d0,c8,00,00,00,00,00,ff,\
+  ff,e1,00,b5,b5,b5,00,00,00,80,00,a6,ca,f0,00,c0,c0,c0,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Colors]
+"Background"="0 0 0"
+"Scrollbar"="200 200 200"
+"ActiveTitle"="153 180 209"
+"InactiveTitle"="191 205 219"
+"Menu"="240 240 240"
+"Window"="255 255 255"
+"WindowFrame"="100 100 100"
+"MenuText"="0 0 0"
+"WindowText"="0 0 0"
+"TitleText"="0 0 0"
+"ActiveBorder"="180 180 180"
+"InactiveBorder"="244 247 252"
+"AppWorkspace"="171 171 171"
+"Hilight"="0 120 215"
+"HilightText"="255 255 255"
+"ButtonFace"="240 240 240"
+"ButtonShadow"="160 160 160"
+"GrayText"="109 109 109"
+"ButtonText"="0 0 0"
+"InactiveTitleText"="0 0 0"
+"ButtonHilight"="255 255 255"
+"ButtonDkShadow"="105 105 105"
+"ButtonLight"="227 227 227"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 225"
+"ButtonAlternateFace"="0 0 0"
+"HotTrackingColor"="0 102 204"
+"GradientActiveTitle"="185 209 234"
+"GradientInactiveTitle"="215 228 242"
+"MenuHilight"="0 120 215"
+"MenuBar"="240 240 240"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Cursors]
+@="@main.cpl,-1020"
+"AppStarting"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  00,74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,\
+  65,00,72,00,6f,00,5f,00,77,00,6f,00,72,00,6b,00,69,00,6e,00,67,00,2e,00,61,\
+  00,6e,00,69,00,00,00
+"Arrow"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,61,00,72,00,72,00,6f,00,77,00,2e,00,63,00,75,00,72,00,00,\
+  00
+"Crosshair"=hex(2):00,00
+"Hand"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,6c,00,69,00,6e,00,6b,00,2e,00,63,00,75,00,72,00,00,00
+"Help"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,68,00,65,00,6c,00,70,00,73,00,65,00,6c,00,2e,00,63,00,75,\
+  00,72,00,00,00
+"IBeam"=hex(2):00,00
+"No"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,\
+  25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,72,\
+  00,6f,00,5f,00,75,00,6e,00,61,00,76,00,61,00,69,00,6c,00,2e,00,63,00,75,00,\
+  72,00,00,00
+"NWPen"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,70,00,65,00,6e,00,2e,00,63,00,75,00,72,00,00,00
+"Scheme Source"=dword:00000002
+"SizeAll"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6d,00,6f,00,76,00,65,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNESW"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6e,00,65,00,73,00,77,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNS"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,6e,00,73,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNWSE"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6e,00,77,00,73,00,65,00,2e,00,63,00,75,00,72,00,00,00
+"SizeWE"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,65,00,77,00,2e,00,63,00,75,00,72,00,00,00
+"UpArrow"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,75,00,70,00,2e,00,63,00,75,00,72,00,00,00
+"Wait"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,62,00,75,00,73,00,79,00,2e,00,61,00,6e,00,69,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Desktop]
+"DragFullWindows"="1"
+"FontSmoothing"="2"
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000002
+"UserPreferencesMask"=hex:9e,3e,03,80,12,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Desktop\WindowMetrics]
+
+[HKEY_USERS\S-1-5-18\Control Panel\Desktop\MuiCached]
+"MachinePreferredUILanguages"=hex(7):76,00,69,00,2d,00,56,00,4e,00,00,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration]
+"vi-VN"=hex(7):65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method]
+"Show Status"="1"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method\Hot Keys]
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method\Hot Keys\00000010]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method\Hot Keys\00000011]
+"Key Modifiers"=hex:04,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method\Hot Keys\00000012]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:be,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method\Hot Keys\00000070]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method\Hot Keys\00000071]
+"Key Modifiers"=hex:04,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method\Hot Keys\00000072]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:bc,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method\Hot Keys\00000104]
+"Key Modifiers"=hex:06,c0,00,00
+"Target IME"=hex:11,04,01,e0
+"Virtual Key"=hex:30,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method\Hot Keys\00000200]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:47,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method\Hot Keys\00000201]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:4b,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method\Hot Keys\00000202]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:4c,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\Input Method\Hot Keys\00000203]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:56,00,00,00
+
+[HKEY_USERS\S-1-5-18\Control Panel\International]
+"Locale"="0000042A"
+"LocaleName"="vi-VN"
+"s1159"="SA"
+"s2359"="CH"
+"sCurrency"="₫"
+"sDate"="/"
+"sDecimal"=","
+"sGrouping"="3;0"
+"sLanguage"="VIT"
+"sList"=","
+"sLongDate"="dd MMMM yyyy"
+"sMonDecimalSep"=","
+"sMonGrouping"="3;0"
+"sMonThousandSep"="."
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="dd/MM/yyyy"
+"sThousand"="."
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sShortTime"="h:mm tt"
+"sYearMonth"="MMMM yyyy"
+"iCalendarType"="1"
+"iCountry"="84"
+"iCurrDigits"="2"
+"iCurrency"="3"
+"iDate"="1"
+"iDigits"="2"
+"NumShape"="1"
+"iFirstDayOfWeek"="0"
+"iFirstWeekOfYear"="0"
+"iLZero"="1"
+"iMeasure"="0"
+"iNegCurr"="8"
+"iNegNumber"="1"
+"iPaperSize"="9"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+
+[HKEY_USERS\S-1-5-18\Control Panel\International\Geo]
+"Nation"="251"
+"Name"="VN"
+
+[HKEY_USERS\S-1-5-18\Control Panel\International\User Profile]
+"Languages"=hex(7):76,00,69,00,00,00,65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+
+[HKEY_USERS\S-1-5-18\Control Panel\International\User Profile\en-US]
+"CachedLanguageName"="@Winlangdb.dll,-1121"
+"0409:00000409"=dword:00000001
+
+[HKEY_USERS\S-1-5-18\Control Panel\International\User Profile\vi]
+"CachedLanguageName"="@Winlangdb.dll,-1497"
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{5FB02EC5-0A77-4684-B4FA-DEF8A2195628}"=dword:00000001
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{591AE943-56BE-48F6-8966-06B43915CC5A}"=dword:00000002
+"042A:0000042A"=dword:00000003
+
+[HKEY_USERS\S-1-5-18\Control Panel\International\User Profile System Backup]
+"Languages"=hex(7):76,00,69,00,00,00,65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+
+[HKEY_USERS\S-1-5-18\Control Panel\International\User Profile System Backup\en-US]
+"0409:00000409"=dword:00000001
+
+[HKEY_USERS\S-1-5-18\Control Panel\International\User Profile System Backup\vi]
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{5FB02EC5-0A77-4684-B4FA-DEF8A2195628}"=dword:00000001
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{591AE943-56BE-48F6-8966-06B43915CC5A}"=dword:00000002
+"042A:0000042A"=dword:00000003
+
+[HKEY_USERS\S-1-5-18\Control Panel\Keyboard]
+"InitialKeyboardIndicators"="2147483648"
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[HKEY_USERS\S-1-5-18\Control Panel\Mouse]
+"ActiveWindowTracking"=dword:00000000
+"DockTargetMouseDragOutWidth"="20"
+"DockTargetMouseSideMoveWidth"="50"
+"DockTargetMouseWidth"="1"
+"DockTargetPenDragOutWidth"="30"
+"DockTargetPenSideMoveWidth"="50"
+"DockTargetPenWidth"="30"
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SmoothMouseXCurve"=hex:00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,00,00,40,\
+  01,00,00,00,00,00,29,dc,03,00,00,00,00,00,00,00,28,00,00,00,00,00
+"SmoothMouseYCurve"=hex:00,00,00,00,00,00,00,00,fd,11,01,00,00,00,00,00,00,24,\
+  04,00,00,00,00,00,00,fc,12,00,00,00,00,00,00,c0,bb,01,00,00,00,00
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+Windows Registry Editor Version 5.00
+
+[HKEY_USERS\.DEFAULT\Control Panel]
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility]
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\Blind Access]
+"On"="0"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\HighContrast]
+"Flags"="126"
+"High Contrast Scheme"=""
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\Keyboard Preference]
+"On"="0"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\Keyboard Response]
+"AutoRepeatDelay"="1000"
+"AutoRepeatRate"="500"
+"BounceTime"="0"
+"DelayBeforeAcceptance"="1000"
+"Flags"="126"
+"Last BounceKey Setting"=dword:00000000
+"Last Valid Delay"=dword:00000000
+"Last Valid Repeat"=dword:00000000
+"Last Valid Wait"=dword:000003e8
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\MouseKeys]
+"Flags"="62"
+"MaximumSpeed"="80"
+"TimeToMaximumSpeed"="3000"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\ShowSounds]
+"On"="0"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\SlateLaunch]
+"ATapp"="narrator"
+"LaunchAT"=dword:00000001
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\SoundSentry]
+"Flags"="2"
+"FSTextEffect"="0"
+"TextEffect"="0"
+"WindowsEffect"="1"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\StickyKeys]
+"Flags"="510"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\TimeOut]
+"Flags"="2"
+"TimeToWait"="300000"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\ToggleKeys]
+"Flags"="62"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Appearance]
+
+[HKEY_USERS\.DEFAULT\Control Panel\Appearance\Schemes]
+"@themeui.dll,-850"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,00,00,ff,00,00,ff,ff,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,ff,ff,ff,00,00,00,ff,00,00,ff,ff,\
+  00,00,00,00,00,00,80,00,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,00,ff,00,00,\
+  ff,ff,ff,00,00,00,00,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,00,\
+  00,00,00,c0,c0,c0,00,80,80,ff,00,00,00,ff,00,00,ff,ff,00
+"@themeui.dll,-851"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,00,ff,ff,00,00,00,ff,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,00,ff,00,00,00,ff,00,00,00,00,00,00,00,ff,ff,00,00,00,ff,\
+  00,ff,ff,ff,00,00,00,ff,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,c0,c0,c0,00,\
+  00,ff,00,00,ff,ff,ff,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,00,00,00,00,ff,\
+  ff,00,00,c0,c0,c0,00,80,80,ff,00,00,ff,ff,00,00,00,ff,00
+"@themeui.dll,-852"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,80,00,80,00,00,80,00,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,00,80,00,\
+  00,00,00,00,00,80,00,80,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,00,ff,00,00,\
+  ff,ff,ff,00,ff,ff,ff,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,00,\
+  00,00,00,c0,c0,c0,00,80,80,ff,00,80,00,80,00,00,80,00,00
+"@themeui.dll,-853"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,ff,ff,ff,00,ff,ff,ff,00,00,00,00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,\
+  ff,00,00,00,00,00,00,00,00,00,00,00,00,00,ff,ff,ff,00,80,80,80,00,c0,c0,c0,\
+  00,80,80,80,00,00,00,00,00,ff,ff,ff,00,ff,ff,ff,00,80,80,80,00,00,80,00,00,\
+  00,00,00,00,00,00,00,00,c0,c0,c0,00,00,00,00,00,c0,c0,c0,00,00,00,00,00,ff,\
+  ff,ff,00,c0,c0,c0,00,00,00,00,00,00,00,00,00,ff,ff,ff,00
+"@themeui.dll,-854"=hex:02,00,00,00,f4,01,00,00,01,00,00,00,10,00,00,00,10,00,\
+  00,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,0c,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,\
+  00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,d4,d0,c8,00,3a,6e,a5,00,0a,24,6a,00,80,80,80,00,d4,d0,c8,00,ff,ff,\
+  ff,00,00,00,00,00,00,00,00,00,00,00,00,00,ff,ff,ff,00,d4,d0,c8,00,d4,d0,c8,\
+  00,80,80,80,00,0a,24,6a,00,ff,ff,ff,00,d4,d0,c8,00,80,80,80,00,80,80,80,00,\
+  00,00,00,00,d4,d0,c8,00,ff,ff,ff,00,40,40,40,00,d4,d0,c8,00,00,00,00,00,ff,\
+  ff,e1,00,b5,b5,b5,00,00,00,80,00,a6,ca,f0,00,c0,c0,c0,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Colors]
+"Background"="0 0 0"
+"Scrollbar"="200 200 200"
+"ActiveTitle"="153 180 209"
+"InactiveTitle"="191 205 219"
+"Menu"="240 240 240"
+"Window"="255 255 255"
+"WindowFrame"="100 100 100"
+"MenuText"="0 0 0"
+"WindowText"="0 0 0"
+"TitleText"="0 0 0"
+"ActiveBorder"="180 180 180"
+"InactiveBorder"="244 247 252"
+"AppWorkspace"="171 171 171"
+"Hilight"="0 120 215"
+"HilightText"="255 255 255"
+"ButtonFace"="240 240 240"
+"ButtonShadow"="160 160 160"
+"GrayText"="109 109 109"
+"ButtonText"="0 0 0"
+"InactiveTitleText"="0 0 0"
+"ButtonHilight"="255 255 255"
+"ButtonDkShadow"="105 105 105"
+"ButtonLight"="227 227 227"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 225"
+"ButtonAlternateFace"="0 0 0"
+"HotTrackingColor"="0 102 204"
+"GradientActiveTitle"="185 209 234"
+"GradientInactiveTitle"="215 228 242"
+"MenuHilight"="0 120 215"
+"MenuBar"="240 240 240"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Cursors]
+@="@main.cpl,-1020"
+"AppStarting"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  00,74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,\
+  65,00,72,00,6f,00,5f,00,77,00,6f,00,72,00,6b,00,69,00,6e,00,67,00,2e,00,61,\
+  00,6e,00,69,00,00,00
+"Arrow"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,61,00,72,00,72,00,6f,00,77,00,2e,00,63,00,75,00,72,00,00,\
+  00
+"Crosshair"=hex(2):00,00
+"Hand"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,6c,00,69,00,6e,00,6b,00,2e,00,63,00,75,00,72,00,00,00
+"Help"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,68,00,65,00,6c,00,70,00,73,00,65,00,6c,00,2e,00,63,00,75,\
+  00,72,00,00,00
+"IBeam"=hex(2):00,00
+"No"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,\
+  25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,72,\
+  00,6f,00,5f,00,75,00,6e,00,61,00,76,00,61,00,69,00,6c,00,2e,00,63,00,75,00,\
+  72,00,00,00
+"NWPen"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,70,00,65,00,6e,00,2e,00,63,00,75,00,72,00,00,00
+"Scheme Source"=dword:00000002
+"SizeAll"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6d,00,6f,00,76,00,65,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNESW"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6e,00,65,00,73,00,77,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNS"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,6e,00,73,00,2e,00,63,00,75,00,72,00,00,00
+"SizeNWSE"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,6e,00,77,00,73,00,65,00,2e,00,63,00,75,00,72,00,00,00
+"SizeWE"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,65,00,77,00,2e,00,63,00,75,00,72,00,00,00
+"UpArrow"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,\
+  00,72,00,6f,00,5f,00,75,00,70,00,2e,00,63,00,75,00,72,00,00,00
+"Wait"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,5c,00,63,00,75,00,72,00,73,00,6f,00,72,00,73,00,5c,00,61,00,65,00,\
+  72,00,6f,00,5f,00,62,00,75,00,73,00,79,00,2e,00,61,00,6e,00,69,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Desktop]
+"DragFullWindows"="1"
+"FontSmoothing"="2"
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000002
+"UserPreferencesMask"=hex:9e,3e,03,80,12,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Desktop\WindowMetrics]
+
+[HKEY_USERS\.DEFAULT\Control Panel\Desktop\MuiCached]
+"MachinePreferredUILanguages"=hex(7):76,00,69,00,2d,00,56,00,4e,00,00,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration]
+"vi-VN"=hex(7):65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method]
+"Show Status"="1"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method\Hot Keys]
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method\Hot Keys\00000010]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method\Hot Keys\00000011]
+"Key Modifiers"=hex:04,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method\Hot Keys\00000012]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:be,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method\Hot Keys\00000070]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method\Hot Keys\00000071]
+"Key Modifiers"=hex:04,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method\Hot Keys\00000072]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:bc,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method\Hot Keys\00000104]
+"Key Modifiers"=hex:06,c0,00,00
+"Target IME"=hex:11,04,01,e0
+"Virtual Key"=hex:30,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method\Hot Keys\00000200]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:47,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method\Hot Keys\00000201]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:4b,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method\Hot Keys\00000202]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:4c,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Input Method\Hot Keys\00000203]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:56,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\International]
+"Locale"="0000042A"
+"LocaleName"="vi-VN"
+"s1159"="SA"
+"s2359"="CH"
+"sCurrency"="₫"
+"sDate"="/"
+"sDecimal"=","
+"sGrouping"="3;0"
+"sLanguage"="VIT"
+"sList"=","
+"sLongDate"="dd MMMM yyyy"
+"sMonDecimalSep"=","
+"sMonGrouping"="3;0"
+"sMonThousandSep"="."
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="dd/MM/yyyy"
+"sThousand"="."
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sShortTime"="h:mm tt"
+"sYearMonth"="MMMM yyyy"
+"iCalendarType"="1"
+"iCountry"="84"
+"iCurrDigits"="2"
+"iCurrency"="3"
+"iDate"="1"
+"iDigits"="2"
+"NumShape"="1"
+"iFirstDayOfWeek"="0"
+"iFirstWeekOfYear"="0"
+"iLZero"="1"
+"iMeasure"="0"
+"iNegCurr"="8"
+"iNegNumber"="1"
+"iPaperSize"="9"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+
+[HKEY_USERS\.DEFAULT\Control Panel\International\Geo]
+"Nation"="251"
+"Name"="VN"
+
+[HKEY_USERS\.DEFAULT\Control Panel\International\User Profile]
+"Languages"=hex(7):76,00,69,00,00,00,65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+
+[HKEY_USERS\.DEFAULT\Control Panel\International\User Profile\en-US]
+"CachedLanguageName"="@Winlangdb.dll,-1121"
+"0409:00000409"=dword:00000001
+
+[HKEY_USERS\.DEFAULT\Control Panel\International\User Profile\vi]
+"CachedLanguageName"="@Winlangdb.dll,-1497"
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{5FB02EC5-0A77-4684-B4FA-DEF8A2195628}"=dword:00000001
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{591AE943-56BE-48F6-8966-06B43915CC5A}"=dword:00000002
+"042A:0000042A"=dword:00000003
+
+[HKEY_USERS\.DEFAULT\Control Panel\International\User Profile System Backup]
+"Languages"=hex(7):76,00,69,00,00,00,65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+
+[HKEY_USERS\.DEFAULT\Control Panel\International\User Profile System Backup\en-US]
+"0409:00000409"=dword:00000001
+
+[HKEY_USERS\.DEFAULT\Control Panel\International\User Profile System Backup\vi]
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{5FB02EC5-0A77-4684-B4FA-DEF8A2195628}"=dword:00000001
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{591AE943-56BE-48F6-8966-06B43915CC5A}"=dword:00000002
+"042A:0000042A"=dword:00000003
+
+[HKEY_USERS\.DEFAULT\Control Panel\Keyboard]
+"InitialKeyboardIndicators"="2147483648"
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[HKEY_USERS\.DEFAULT\Control Panel\Mouse]
+"ActiveWindowTracking"=dword:00000000
+"DockTargetMouseDragOutWidth"="20"
+"DockTargetMouseSideMoveWidth"="50"
+"DockTargetMouseWidth"="1"
+"DockTargetPenDragOutWidth"="30"
+"DockTargetPenSideMoveWidth"="50"
+"DockTargetPenWidth"="30"
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"SmoothMouseXCurve"=hex:00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,00,00,40,\
+  01,00,00,00,00,00,29,dc,03,00,00,00,00,00,00,00,28,00,00,00,00,00
+"SmoothMouseYCurve"=hex:00,00,00,00,00,00,00,00,fd,11,01,00,00,00,00,00,00,24,\
+  04,00,00,00,00,00,00,fc,12,00,00,00,00,00,00,c0,bb,01,00,00,00,00
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+Windows Registry Editor Version 5.00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel]
+"SettingsExtensionAppSnapshot"=hex:00,00,00,00,00,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility]
+"MessageDuration"=dword:00000005
+"MinimumHitRadius"=dword:00000000
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\AudioDescription]
+"Locale"=""
+"On"="0"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\Blind Access]
+"On"="0"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\HighContrast]
+"Flags"="126"
+"High Contrast Scheme"=""
+"Previous High Contrast Scheme MUI Value"=""
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\Keyboard Preference]
+"On"="0"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\Keyboard Response]
+"AutoRepeatDelay"="1000"
+"AutoRepeatRate"="500"
+"BounceTime"="0"
+"DelayBeforeAcceptance"="1000"
+"Flags"="126"
+"Last BounceKey Setting"=dword:00000000
+"Last Valid Delay"=dword:00000000
+"Last Valid Repeat"=dword:00000000
+"Last Valid Wait"=dword:000003e8
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\MouseKeys]
+"Flags"="62"
+"MaximumSpeed"="80"
+"TimeToMaximumSpeed"="3000"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\On]
+"Locale"=dword:00000000
+"On"=dword:00000000
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\ShowSounds]
+"On"="0"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\SlateLaunch]
+"ATapp"="narrator"
+"LaunchAT"=dword:00000001
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\SoundSentry]
+"Flags"="2"
+"FSTextEffect"="0"
+"TextEffect"="0"
+"WindowsEffect"="1"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\StickyKeys]
+"Flags"="510"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\TimeOut]
+"Flags"="2"
+"TimeToWait"="300000"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Accessibility\ToggleKeys]
+"Flags"="62"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Appearance]
+"SchemeLangID"=hex:2a,04
+"NewCurrent"=""
+"Current"=""
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Appearance\New Schemes]
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Appearance\Schemes]
+"@themeui.dll,-850"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,00,00,ff,00,00,ff,ff,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,ff,ff,ff,00,00,00,ff,00,00,ff,ff,\
+  00,00,00,00,00,00,80,00,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,00,ff,00,00,\
+  ff,ff,ff,00,00,00,00,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,00,\
+  00,00,00,c0,c0,c0,00,80,80,ff,00,00,00,ff,00,00,ff,ff,00
+"@themeui.dll,-851"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,00,ff,ff,00,00,00,ff,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,00,ff,00,00,00,ff,00,00,00,00,00,00,00,ff,ff,00,00,00,ff,\
+  00,ff,ff,ff,00,00,00,ff,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,c0,c0,c0,00,\
+  00,ff,00,00,ff,ff,ff,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,00,00,00,00,ff,\
+  ff,00,00,c0,c0,c0,00,80,80,ff,00,00,ff,ff,00,00,00,ff,00
+"@themeui.dll,-852"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,00,00,00,00,00,00,00,00,80,00,80,00,00,80,00,00,00,00,00,00,00,00,\
+  00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,00,00,00,80,00,\
+  00,00,00,00,00,80,00,80,00,ff,ff,ff,00,00,00,00,00,80,80,80,00,00,ff,00,00,\
+  ff,ff,ff,00,ff,ff,ff,00,c0,c0,c0,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,ff,00,00,\
+  00,00,00,c0,c0,c0,00,80,80,ff,00,80,00,80,00,00,80,00,00
+"@themeui.dll,-853"=hex:02,00,00,00,46,00,00,00,01,00,00,00,11,00,00,00,11,00,\
+  00,00,14,00,00,00,14,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,fc,7f,22,14,fc,7f,b0,fe,12,00,00,00,00,00,00,00,00,00,98,23,\
+  eb,77,0f,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,f0,77,00,20,14,00,00,00,00,10,80,05,14,00,f0,1f,14,00,00,00,\
+  14,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,\
+  6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,\
+  00,66,00,00,00,14,00,88,fb,e8,77,02,02,00,00,ac,b9,f0,77,00,00,00,00,20,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,\
+  53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,7c,6b,e8,77,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,\
+  00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,\
+  20,00,53,00,65,00,72,00,69,00,66,00,00,00,00,00,06,00,00,00,18,00,00,00,ff,\
+  ff,ff,ff,f0,4b,21,fc,00,c4,f0,77,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,bc,02,00,00,00,00,00,00,00,00,00,00,4d,00,69,00,63,00,72,00,6f,00,73,\
+  00,6f,00,66,00,74,00,20,00,53,00,61,00,6e,00,73,00,20,00,53,00,65,00,72,00,\
+  69,00,66,00,00,00,14,00,0b,00,00,00,00,ff,12,00,50,00,00,00,c0,fe,12,00,0c,\
+  10,00,01,ff,ff,ff,00,ff,ff,ff,00,00,00,00,00,ff,ff,ff,00,ff,ff,ff,00,ff,ff,\
+  ff,00,00,00,00,00,00,00,00,00,00,00,00,00,ff,ff,ff,00,80,80,80,00,c0,c0,c0,\
+  00,80,80,80,00,00,00,00,00,ff,ff,ff,00,ff,ff,ff,00,80,80,80,00,00,80,00,00,\
+  00,00,00,00,00,00,00,00,c0,c0,c0,00,00,00,00,00,c0,c0,c0,00,00,00,00,00,ff,\
+  ff,ff,00,c0,c0,c0,00,00,00,00,00,00,00,00,00,ff,ff,ff,00
+"@themeui.dll,-854"=hex:02,00,00,00,f4,01,00,00,01,00,00,00,10,00,00,00,10,00,\
+  00,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,0c,00,00,00,0f,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,bc,02,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,12,00,00,00,12,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,\
+  00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,\
+  00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,\
+  00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,\
+  00,68,00,6f,00,6d,00,61,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,f5,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,\
+  00,00,90,01,00,00,00,00,00,00,00,00,00,00,54,00,61,00,68,00,6f,00,6d,00,61,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,d4,d0,c8,00,3a,6e,a5,00,0a,24,6a,00,80,80,80,00,d4,d0,c8,00,ff,ff,\
+  ff,00,00,00,00,00,00,00,00,00,00,00,00,00,ff,ff,ff,00,d4,d0,c8,00,d4,d0,c8,\
+  00,80,80,80,00,0a,24,6a,00,ff,ff,ff,00,d4,d0,c8,00,80,80,80,00,80,80,80,00,\
+  00,00,00,00,d4,d0,c8,00,ff,ff,ff,00,40,40,40,00,d4,d0,c8,00,00,00,00,00,ff,\
+  ff,e1,00,b5,b5,b5,00,00,00,80,00,a6,ca,f0,00,c0,c0,c0,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Bluetooth]
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Bluetooth\FileSquirtInstalled]
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Colors]
+"ActiveBorder"="180 180 180"
+"ActiveTitle"="153 180 209"
+"AppWorkspace"="171 171 171"
+"Background"="0 0 0"
+"ButtonAlternateFace"="0 0 0"
+"ButtonDkShadow"="105 105 105"
+"ButtonFace"="240 240 240"
+"ButtonHilight"="255 255 255"
+"ButtonLight"="227 227 227"
+"ButtonShadow"="160 160 160"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="185 209 234"
+"GradientInactiveTitle"="215 228 242"
+"GrayText"="109 109 109"
+"Hilight"="0 120 215"
+"HilightText"="255 255 255"
+"HotTrackingColor"="0 102 204"
+"InactiveBorder"="244 247 252"
+"InactiveTitle"="191 205 219"
+"InactiveTitleText"="0 0 0"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 225"
+"Menu"="240 240 240"
+"MenuBar"="240 240 240"
+"MenuHilight"="0 120 215"
+"MenuText"="0 0 0"
+"Scrollbar"="200 200 200"
+"TitleText"="0 0 0"
+"Window"="255 255 255"
+"WindowFrame"="100 100 100"
+"WindowText"="0 0 0"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Cursors]
+"AppStarting"="C:\\Windows\\cursors\\aero_working.ani"
+"Arrow"="C:\\Windows\\cursors\\aero_arrow.cur"
+"ContactVisualization"=dword:00000001
+"Crosshair"=""
+"CursorBaseSize"=dword:00000020
+"GestureVisualization"=dword:0000001f
+"Hand"="C:\\Windows\\cursors\\aero_link.cur"
+"Help"="C:\\Windows\\cursors\\aero_helpsel.cur"
+"IBeam"=""
+"No"="C:\\Windows\\cursors\\aero_unavail.cur"
+"NWPen"="C:\\Windows\\cursors\\aero_pen.cur"
+"Scheme Source"=dword:00000002
+"SizeAll"="C:\\Windows\\cursors\\aero_move.cur"
+"SizeNESW"="C:\\Windows\\cursors\\aero_nesw.cur"
+"SizeNS"="C:\\Windows\\cursors\\aero_ns.cur"
+"SizeNWSE"="C:\\Windows\\cursors\\aero_nwse.cur"
+"SizeWE"="C:\\Windows\\cursors\\aero_ew.cur"
+"UpArrow"="C:\\Windows\\cursors\\aero_up.cur"
+"Wait"="C:\\Windows\\cursors\\aero_busy.ani"
+@="Windows Default"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Desktop]
+"ActiveWndTrackTimeout"=dword:00000000
+"BlockSendInputResets"="0"
+"CaretTimeout"=dword:00001388
+"CaretWidth"=dword:00000001
+"ClickLockTime"=dword:000004b0
+"CoolSwitchColumns"="7"
+"CoolSwitchRows"="3"
+"CursorBlinkRate"="530"
+"DockMoving"="1"
+"DragFromMaximize"="1"
+"DragFullWindows"="1"
+"DragHeight"="4"
+"DragWidth"="4"
+"FocusBorderHeight"=dword:00000001
+"FocusBorderWidth"=dword:00000001
+"FontSmoothing"="2"
+"FontSmoothingGamma"=dword:00000000
+"FontSmoothingOrientation"=dword:00000001
+"FontSmoothingType"=dword:00000002
+"ForegroundFlashCount"=dword:00000007
+"ForegroundLockTimeout"=dword:00030d40
+"LeftOverlapChars"="3"
+"MenuShowDelay"="400"
+"MouseWheelRouting"=dword:00000002
+"PaintDesktopVersion"=dword:00000000
+"Pattern"=dword:00000000
+"RightOverlapChars"="3"
+"ScreenSaveActive"="1"
+"SnapSizing"="1"
+"TileWallpaper"="0"
+"WallPaper"="C:\\Windows\\web\\wallpaper\\Windows\\img0.jpg"
+"WallpaperOriginX"=dword:00000000
+"WallpaperOriginY"=dword:00000000
+"WallpaperStyle"="10"
+"WheelScrollChars"="3"
+"WheelScrollLines"="3"
+"WindowArrangementActive"="1"
+"Win8DpiScaling"=dword:00000000
+"DpiScalingVer"=dword:00001000
+"UserPreferencesMask"=hex:9e,1e,07,80,12,00,00,00
+"MaxVirtualDesktopDimension"=dword:00000780
+"MaxMonitorDimension"=dword:00000780
+"TranscodedImageCount"=dword:00000003
+"LastUpdated"=dword:ffffffff
+"TranscodedImageCache"=hex:7a,c3,01,00,9e,01,06,00,80,07,00,00,b0,04,00,00,be,\
+  d5,25,17,de,ac,d5,01,43,00,3a,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,\
+  73,00,5c,00,77,00,65,00,62,00,5c,00,77,00,61,00,6c,00,6c,00,70,00,61,00,70,\
+  00,65,00,72,00,5c,00,57,00,69,00,6e,00,64,00,6f,00,77,00,73,00,5c,00,69,00,\
+  6d,00,67,00,30,00,2e,00,6a,00,70,00,67,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Desktop\Colors]
+"ActiveBorder"="212 208 200"
+"ActiveTitle"="10 36 106"
+"AppWorkSpace"="128 128 128"
+"ButtonAlternateFace"="181 181 181"
+"ButtonDkShadow"="64 64 64"
+"ButtonFace"="212 208 200"
+"ButtonHiLight"="255 255 255"
+"ButtonLight"="212 208 200"
+"ButtonShadow"="128 128 128"
+"ButtonText"="0 0 0"
+"GradientActiveTitle"="166 202 240"
+"GradientInactiveTitle"="192 192 192"
+"GrayText"="128 128 128"
+"Hilight"="10 36 106"
+"HilightText"="255 255 255"
+"HotTrackingColor"="0 0 128"
+"InactiveBorder"="212 208 200"
+"InactiveTitle"="128 128 128"
+"InactiveTitleText"="212 208 200"
+"InfoText"="0 0 0"
+"InfoWindow"="255 255 255"
+"Menu"="212 208 200"
+"MenuText"="0 0 0"
+"Scrollbar"="212 208 200"
+"TitleText"="255 255 255"
+"Window"="255 255 255"
+"WindowFrame"="0 0 0"
+"WindowText"="0 0 0"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Desktop\WindowMetrics]
+"BorderWidth"="-15"
+"CaptionFont"=hex:f4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,01,00,00,05,00,53,00,65,00,67,00,6f,00,65,00,20,00,55,00,49,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"CaptionHeight"="-330"
+"CaptionWidth"="-330"
+"IconFont"=hex:f4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,01,00,00,05,00,53,00,65,00,67,00,6f,00,65,00,20,00,55,00,49,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"IconTitleWrap"="1"
+"MenuFont"=hex:f4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,00,\
+  00,00,01,00,00,05,00,53,00,65,00,67,00,6f,00,65,00,20,00,55,00,49,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"MenuHeight"="-285"
+"MenuWidth"="-285"
+"MessageFont"=hex:f4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,01,00,00,05,00,53,00,65,00,67,00,6f,00,65,00,20,00,55,00,49,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"ScrollHeight"="-255"
+"ScrollWidth"="-255"
+"Shell Icon Size"="32"
+"SmCaptionFont"=hex:f4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,\
+  00,00,00,00,01,00,00,05,00,53,00,65,00,67,00,6f,00,65,00,20,00,55,00,49,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"SmCaptionHeight"="-330"
+"SmCaptionWidth"="-330"
+"StatusFont"=hex:f4,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,90,01,00,00,\
+  00,00,00,01,00,00,05,00,53,00,65,00,67,00,6f,00,65,00,20,00,55,00,49,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"PaddedBorderWidth"="-60"
+"AppliedDPI"=dword:00000060
+"IconSpacing"="-1125"
+"IconVerticalSpacing"="-1125"
+"MinAnimate"="1"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Desktop\MuiCached]
+"MachinePreferredUILanguages"=hex(7):76,00,69,00,2d,00,56,00,4e,00,00,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Desktop\MuiCached\MachineLanguageConfiguration]
+"vi-VN"=hex(7):65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method]
+"Show Status"="1"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method\Hot Keys]
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method\Hot Keys\00000010]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method\Hot Keys\00000011]
+"Key Modifiers"=hex:04,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method\Hot Keys\00000012]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:be,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method\Hot Keys\00000070]
+"Key Modifiers"=hex:02,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method\Hot Keys\00000071]
+"Key Modifiers"=hex:04,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:20,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method\Hot Keys\00000072]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:bc,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method\Hot Keys\00000104]
+"Key Modifiers"=hex:06,c0,00,00
+"Target IME"=hex:11,04,01,e0
+"Virtual Key"=hex:30,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method\Hot Keys\00000200]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:47,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method\Hot Keys\00000201]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:4b,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method\Hot Keys\00000202]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:4c,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Input Method\Hot Keys\00000203]
+"Key Modifiers"=hex:03,c0,00,00
+"Target IME"=hex:00,00,00,00
+"Virtual Key"=hex:56,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\International]
+"Locale"="0000042A"
+"LocaleName"="vi-VN"
+"s1159"="SA"
+"s2359"="CH"
+"sCurrency"="₫"
+"sDate"="/"
+"sDecimal"=","
+"sGrouping"="3;0"
+"sLanguage"="VIT"
+"sList"=","
+"sLongDate"="dd MMMM yyyy"
+"sMonDecimalSep"=","
+"sMonGrouping"="3;0"
+"sMonThousandSep"="."
+"sNativeDigits"="0123456789"
+"sNegativeSign"="-"
+"sPositiveSign"=""
+"sShortDate"="dd/MM/yyyy"
+"sThousand"="."
+"sTime"=":"
+"sTimeFormat"="h:mm:ss tt"
+"sShortTime"="h:mm tt"
+"sYearMonth"="MMMM yyyy"
+"iCalendarType"="1"
+"iCountry"="84"
+"iCurrDigits"="2"
+"iCurrency"="3"
+"iDate"="1"
+"iDigits"="2"
+"NumShape"="1"
+"iFirstDayOfWeek"="0"
+"iFirstWeekOfYear"="0"
+"iLZero"="1"
+"iMeasure"="0"
+"iNegCurr"="8"
+"iNegNumber"="1"
+"iPaperSize"="9"
+"iTime"="0"
+"iTimePrefix"="0"
+"iTLZero"="0"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\International\Geo]
+"Nation"="251"
+"Name"="VN"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\International\LanguageComponentsAvailable]
+"AvailableLanguagePacks"=hex(7):61,00,66,00,2d,00,7a,00,61,00,00,00,66,00,61,\
+  00,2d,00,69,00,72,00,00,00,62,00,65,00,2d,00,62,00,79,00,00,00,68,00,65,00,\
+  2d,00,69,00,6c,00,00,00,62,00,6e,00,2d,00,62,00,64,00,00,00,67,00,61,00,2d,\
+  00,69,00,65,00,00,00,75,00,6b,00,2d,00,75,00,61,00,00,00,6d,00,6e,00,2d,00,\
+  6d,00,6e,00,00,00,74,00,69,00,2d,00,65,00,74,00,00,00,6d,00,72,00,2d,00,69,\
+  00,6e,00,00,00,6b,00,79,00,2d,00,6b,00,67,00,00,00,61,00,73,00,2d,00,69,00,\
+  6e,00,00,00,67,00,6c,00,2d,00,65,00,73,00,00,00,6b,00,6d,00,2d,00,6b,00,68,\
+  00,00,00,61,00,72,00,2d,00,73,00,61,00,00,00,61,00,6d,00,2d,00,65,00,74,00,\
+  00,00,62,00,6e,00,2d,00,69,00,6e,00,00,00,63,00,61,00,2d,00,65,00,73,00,2d,\
+  00,76,00,61,00,6c,00,65,00,6e,00,63,00,69,00,61,00,00,00,61,00,7a,00,2d,00,\
+  6c,00,61,00,74,00,6e,00,2d,00,61,00,7a,00,00,00,64,00,65,00,2d,00,64,00,65,\
+  00,00,00,62,00,67,00,2d,00,62,00,67,00,00,00,64,00,61,00,2d,00,64,00,6b,00,\
+  00,00,67,00,64,00,2d,00,67,00,62,00,00,00,6b,00,61,00,2d,00,67,00,65,00,00,\
+  00,68,00,61,00,2d,00,6c,00,61,00,74,00,6e,00,2d,00,6e,00,67,00,00,00,75,00,\
+  7a,00,2d,00,6c,00,61,00,74,00,6e,00,2d,00,75,00,7a,00,00,00,73,00,77,00,2d,\
+  00,6b,00,65,00,00,00,68,00,75,00,2d,00,68,00,75,00,00,00,69,00,74,00,2d,00,\
+  69,00,74,00,00,00,6b,00,75,00,2d,00,61,00,72,00,61,00,62,00,2d,00,69,00,71,\
+  00,00,00,79,00,6f,00,2d,00,6e,00,67,00,00,00,74,00,6e,00,2d,00,7a,00,61,00,\
+  00,00,65,00,73,00,2d,00,6d,00,78,00,00,00,63,00,68,00,72,00,2d,00,63,00,68,\
+  00,65,00,72,00,2d,00,75,00,73,00,00,00,6e,00,6c,00,2d,00,6e,00,6c,00,00,00,\
+  68,00,72,00,2d,00,68,00,72,00,00,00,62,00,73,00,2d,00,6c,00,61,00,74,00,6e,\
+  00,2d,00,62,00,61,00,00,00,6c,00,76,00,2d,00,6c,00,76,00,00,00,74,00,68,00,\
+  2d,00,74,00,68,00,00,00,70,00,74,00,2d,00,62,00,72,00,00,00,6f,00,72,00,2d,\
+  00,69,00,6e,00,00,00,70,00,6c,00,2d,00,70,00,6c,00,00,00,69,00,73,00,2d,00,\
+  69,00,73,00,00,00,74,00,65,00,2d,00,69,00,6e,00,00,00,6d,00,6b,00,2d,00,6d,\
+  00,6b,00,00,00,65,00,73,00,2d,00,65,00,73,00,00,00,6d,00,6c,00,2d,00,69,00,\
+  6e,00,00,00,66,00,72,00,2d,00,66,00,72,00,00,00,6b,00,6e,00,2d,00,69,00,6e,\
+  00,00,00,70,00,72,00,73,00,2d,00,61,00,66,00,00,00,6b,00,6f,00,6b,00,2d,00,\
+  69,00,6e,00,00,00,63,00,61,00,2d,00,65,00,73,00,00,00,65,00,6e,00,2d,00,67,\
+  00,62,00,00,00,66,00,72,00,2d,00,63,00,61,00,00,00,73,00,64,00,2d,00,61,00,\
+  72,00,61,00,62,00,2d,00,70,00,6b,00,00,00,65,00,74,00,2d,00,65,00,65,00,00,\
+  00,7a,00,68,00,2d,00,63,00,6e,00,00,00,73,00,69,00,2d,00,6c,00,6b,00,00,00,\
+  63,00,73,00,2d,00,63,00,7a,00,00,00,67,00,75,00,2d,00,69,00,6e,00,00,00,63,\
+  00,79,00,2d,00,67,00,62,00,00,00,69,00,67,00,2d,00,6e,00,67,00,00,00,6a,00,\
+  61,00,2d,00,6a,00,70,00,00,00,65,00,6c,00,2d,00,67,00,72,00,00,00,65,00,75,\
+  00,2d,00,65,00,73,00,00,00,78,00,68,00,2d,00,7a,00,61,00,00,00,73,00,6c,00,\
+  2d,00,73,00,69,00,00,00,65,00,6e,00,2d,00,75,00,73,00,00,00,6b,00,6b,00,2d,\
+  00,6b,00,7a,00,00,00,6d,00,69,00,2d,00,6e,00,7a,00,00,00,66,00,69,00,2d,00,\
+  66,00,69,00,00,00,69,00,64,00,2d,00,69,00,64,00,00,00,66,00,69,00,6c,00,2d,\
+  00,70,00,68,00,00,00,74,00,6b,00,2d,00,74,00,6d,00,00,00,6c,00,74,00,2d,00,\
+  6c,00,74,00,00,00,70,00,61,00,2d,00,69,00,6e,00,00,00,68,00,69,00,2d,00,69,\
+  00,6e,00,00,00,6c,00,6f,00,2d,00,6c,00,61,00,00,00,6b,00,6f,00,2d,00,6b,00,\
+  72,00,00,00,68,00,79,00,2d,00,61,00,6d,00,00,00,6c,00,62,00,2d,00,6c,00,75,\
+  00,00,00,6d,00,73,00,2d,00,6d,00,79,00,00,00,75,00,72,00,2d,00,70,00,6b,00,\
+  00,00,72,00,6f,00,2d,00,72,00,6f,00,00,00,6d,00,74,00,2d,00,6d,00,74,00,00,\
+  00,73,00,72,00,2d,00,63,00,79,00,72,00,6c,00,2d,00,72,00,73,00,00,00,73,00,\
+  71,00,2d,00,61,00,6c,00,00,00,6e,00,65,00,2d,00,6e,00,70,00,00,00,75,00,67,\
+  00,2d,00,63,00,6e,00,00,00,6e,00,62,00,2d,00,6e,00,6f,00,00,00,6e,00,6e,00,\
+  2d,00,6e,00,6f,00,00,00,6e,00,73,00,6f,00,2d,00,7a,00,61,00,00,00,70,00,61,\
+  00,2d,00,61,00,72,00,61,00,62,00,2d,00,70,00,6b,00,00,00,70,00,74,00,2d,00,\
+  70,00,74,00,00,00,71,00,75,00,63,00,2d,00,6c,00,61,00,74,00,6e,00,2d,00,67,\
+  00,74,00,00,00,71,00,75,00,7a,00,2d,00,70,00,65,00,00,00,72,00,75,00,2d,00,\
+  72,00,75,00,00,00,72,00,77,00,2d,00,72,00,77,00,00,00,73,00,6b,00,2d,00,73,\
+  00,6b,00,00,00,73,00,72,00,2d,00,63,00,79,00,72,00,6c,00,2d,00,62,00,61,00,\
+  00,00,73,00,72,00,2d,00,6c,00,61,00,74,00,6e,00,2d,00,72,00,73,00,00,00,73,\
+  00,76,00,2d,00,73,00,65,00,00,00,74,00,61,00,2d,00,69,00,6e,00,00,00,74,00,\
+  67,00,2d,00,63,00,79,00,72,00,6c,00,2d,00,74,00,6a,00,00,00,74,00,72,00,2d,\
+  00,74,00,72,00,00,00,74,00,74,00,2d,00,72,00,75,00,00,00,76,00,69,00,2d,00,\
+  76,00,6e,00,00,00,77,00,6f,00,2d,00,73,00,6e,00,00,00,7a,00,68,00,2d,00,74,\
+  00,77,00,00,00,7a,00,75,00,2d,00,7a,00,61,00,00,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\International\User Profile]
+"Languages"=hex(7):76,00,69,00,00,00,65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\International\User Profile\en-US]
+"0409:00000409"=dword:00000001
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\International\User Profile\vi]
+"042A:0000042A"=dword:00000001
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\International\User Profile System Backup]
+"Languages"=hex(7):76,00,69,00,00,00,65,00,6e,00,2d,00,55,00,53,00,00,00,00,00
+"ShowAutoCorrection"=dword:00000001
+"ShowTextPrediction"=dword:00000001
+"ShowCasing"=dword:00000001
+"ShowShiftLock"=dword:00000001
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\International\User Profile System Backup\en-US]
+"0409:00000409"=dword:00000001
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\International\User Profile System Backup\vi]
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{5FB02EC5-0A77-4684-B4FA-DEF8A2195628}"=dword:00000001
+"042A:0000042A"=dword:00000002
+"042A:{C2CB2CF0-AF47-413E-9780-8BC3A3C16068}{591AE943-56BE-48F6-8966-06B43915CC5A}"=dword:00000003
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Keyboard]
+"InitialKeyboardIndicators"="0"
+"KeyboardDelay"="1"
+"KeyboardSpeed"="31"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Mouse]
+"ActiveWindowTracking"=dword:00000000
+"Beep"="No"
+"DoubleClickHeight"="4"
+"DoubleClickSpeed"="500"
+"DoubleClickWidth"="4"
+"ExtendedSounds"="No"
+"MouseHoverHeight"="4"
+"MouseHoverTime"="400"
+"MouseHoverWidth"="4"
+"MouseSensitivity"="10"
+"MouseSpeed"="1"
+"MouseThreshold1"="6"
+"MouseThreshold2"="10"
+"MouseTrails"="0"
+"SmoothMouseXCurve"=hex:00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,00,00,40,\
+  01,00,00,00,00,00,29,dc,03,00,00,00,00,00,00,00,28,00,00,00,00,00
+"SmoothMouseYCurve"=hex:00,00,00,00,00,00,00,00,fd,11,01,00,00,00,00,00,00,24,\
+  04,00,00,00,00,00,00,fc,12,00,00,00,00,00,00,c0,bb,01,00,00,00,00
+"SnapToDefaultButton"="0"
+"SwapMouseButtons"="0"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Personalization]
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Personalization\Desktop Slideshow]
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\PowerCfg]
+"CurrentPowerPolicy"="0"
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\PowerCfg\GlobalPowerPolicy]
+"Policies"=hex:01,00,00,00,00,00,00,00,03,00,00,00,10,00,00,00,00,00,00,00,03,\
+  00,00,00,10,00,00,00,02,00,00,00,03,00,00,00,00,00,00,00,02,00,00,00,03,00,\
+  00,00,00,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,01,00,00,\
+  00,00,00,00,00,01,00,00,00,03,00,00,00,03,00,00,00,00,00,00,c0,01,00,00,00,\
+  05,00,00,00,01,00,00,00,0a,00,00,00,00,00,00,00,03,00,00,00,01,00,00,00,01,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  00,16,00,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\PowerCfg\PowerPolicies]
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\PowerCfg\PowerPolicies\0]
+"Description"="This scheme is suited to most home or desktop computers that are left plugged in all the time."
+"Name"="Home/Office Desk"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,2c,01,00,00,32,32,00,03,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,b0,04,00,00,2c,01,00,00,00,00,00,00,58,02,00,\
+  00,01,01,64,50,64,64,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\PowerCfg\PowerPolicies\1]
+"Description"="This scheme is designed for extended battery life for portable computers on the road."
+"Name"="Portable/Laptop"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,01,\
+  00,00,00,00,00,00,00,b0,04,00,00,2c,01,00,00,32,32,03,03,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,84,03,00,00,2c,01,00,00,08,07,00,00,2c,01,00,\
+  00,01,01,64,50,64,64,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\PowerCfg\PowerPolicies\2]
+"Description"="This scheme keeps the monitor on for doing presentations."
+"Name"="Presentation"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,01,\
+  00,00,00,00,00,00,00,00,00,00,00,84,03,00,00,32,32,03,02,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,2c,01,00,\
+  00,01,01,50,50,64,64,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\PowerCfg\PowerPolicies\3]
+"Description"="This scheme keeps the computer running so that it can be accessed from the network.  Use this scheme if you do not have network wakeup hardware."
+"Name"="Always On"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,32,32,00,00,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,b0,04,00,00,84,03,00,00,00,00,00,00,08,07,00,\
+  00,00,01,64,64,64,64,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\PowerCfg\PowerPolicies\4]
+"Description"="This scheme keeps the computer on and optimizes it for high performance."
+"Name"="Minimal Power Management"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,00,00,2c,01,00,00,32,32,03,03,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,84,03,00,00,2c,01,00,00,00,00,00,00,84,03,00,\
+  00,00,01,64,64,64,64,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\PowerCfg\PowerPolicies\5]
+"Description"="This scheme is extremely aggressive for saving power."
+"Name"="Max Battery"
+"Policies"=hex:01,00,00,00,02,00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,05,\
+  00,00,00,00,00,00,00,b0,04,00,00,78,00,00,00,32,32,03,02,04,00,00,00,04,00,\
+  00,00,00,00,00,00,00,00,00,00,84,03,00,00,3c,00,00,00,00,00,00,00,b4,00,00,\
+  00,01,01,64,32,64,64,00,00
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Quick Actions]
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Quick Actions\Pinned]
+
+[HKEY_USERS\S-1-5-21-3006922110-2349139816-1605405987-1001\Control Panel\Sound]
+"Beep"="yes"
+"ExtendedSounds"="yes"
+
